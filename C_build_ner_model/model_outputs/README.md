@@ -1,0 +1,1 @@
+This directory contains the default outputs of the newly trained spaCy named entity recognition model. We recommend only keeping these four default outputs in this directory.

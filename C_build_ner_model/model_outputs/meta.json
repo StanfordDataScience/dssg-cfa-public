@@ -1,0 +1,58 @@
+{
+  "lang":"en",
+  "name":"modified_ner_model_gazettes",
+  "version":"0.0.0",
+  "spacy_version":">=2.3.2",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"bf778f59c",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":"spacy_pretrained_vectors"
+  },
+  "pipeline":[
+    "ner"
+  ],
+  "factories":{
+    "ner":"ner"
+  },
+  "labels":{
+    "ner":[
+      "CARDINAL",
+      "DATE",
+      "DEED STATUS",
+      "DISTRICT",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "GRANT NUMBER",
+      "ID",
+      "LAND REGISTRATION",
+      "LAND SIZE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "LR NUMBER",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "OWNER",
+      "OWNER ADDRESS",
+      "OWNERSHIP STATUS",
+      "PERCENT",
+      "PERSON",
+      "PLOT NUMBER",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "TITLE NUMBER",
+      "WORK_OF_ART"
+    ]
+  }
+}
