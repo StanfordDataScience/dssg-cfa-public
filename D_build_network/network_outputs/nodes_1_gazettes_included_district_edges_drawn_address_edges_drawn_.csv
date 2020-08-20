@@ -1,0 +1,824 @@
+key,Type,Land Size,Description
+"('Abdalla Mohamed Abdalla', 0)",2,1,"Person node: 
+Name: Abdalla Mohamed Abdalla.
+Address: P.O. Box 90145, Mombasa in the Republic of Kenya.
+District: ['Mombasa'].
+"
+"('Mombasa/Block XVI/598', 0)",3,1,"Org node: 
+Name: Mombasa/Block XVI/598.
+Address: P.O. Box 90145, Mombasa in the Republic of Kenya.
+District: ['Mombasa'].
+"
+"('Plot', 0)",3,1,"Org node: 
+Name: Plot.
+Address: ['P.O. Box 90610-80100, Mombasa in the Republic of Kenya', 'P.O. Box 87912-80100, Mombasa in the Republic of Kenya', 'P.O. Box 90145, Mombasa in the Republic of Kenya'].
+District: ['Mombasa'].
+"
+"(0, 0)",1,0.0163,"Land node: 
+Location: , in.
+Size: 0.0163 hectare.
+District: Mombasa.
+"
+"('C.R. 53765', 0)",2,1,"Person node: 
+Name: C.R. 53765.
+Address: P.O. Box 1851- 80200, Malindi in the Republic of Kenya.
+District: ['Malindi'].
+"
+"('Ist December', 0)",2,1,"Person node: 
+Name: Ist December.
+Address: P.O. Box 1851- 80200, Malindi in the Republic of Kenya.
+District: ['Malindi'].
+"
+"('Fatma Eric Edward Barallon', 0)",2,1,"Person node: 
+Name: Fatma Eric Edward Barallon.
+Address: P.O. Box 1851- 80200, Malindi in the Republic of Kenya.
+District: ['Malindi'].
+"
+"(4, 0)",1,1,"Land node: 
+Land Registration: plot number 11954 Malindi.
+District: Malindi.
+"
+"('C.R. 19204/1', 0)",2,1,"Person node: 
+Name: C.R. 19204/1.
+Address: P.O. Box 90610-80100, Mombasa in the Republic of Kenya.
+District: ['Mombasa'].
+"
+"('Elisabeth Wirth', 0)",2,1,"Person node: 
+Name: Elisabeth Wirth.
+Address: P.O. Box 90610-80100, Mombasa in the Republic of Kenya.
+District: ['Mombasa'].
+"
+"('Wilson Mwinyi Abdalla', 0)",2,1,"Person node: 
+Name: Wilson Mwinyi Abdalla.
+Address: P.O. Box 90610-80100, Mombasa in the Republic of Kenya.
+District: ['Mombasa'].
+"
+"(8, 0)",1,0.3510,"Land node: 
+Location: North of Mombasa Municipality.
+Size: 0.3510 hectare.
+District: Mombasa.
+"
+"('Adham Mohamed Basty', 0)",2,1,"Person node: 
+Name: Adham Mohamed Basty.
+Address: P.O. Box 980-80100. Mombasa in the Republic of Kenya.
+District: ['Mombasa'].
+"
+"('557/1V/MN', 0)",3,1,"Org node: 
+Name: 557/1V/MN.
+Address: P.O. Box 980-80100. Mombasa in the Republic of Kenya.
+District: ['Mombasa'].
+"
+"(13, 0)",1,1,"Land node: 
+Land Registration: title number CR. 28227. and whereas sufficient evidence has been adduced to show that the said certificate of title has been lost, notice is given that after the expiration of sixty (60) days.
+Location: the date hereof.
+"
+"('Simon Willis Ouma', 0)",2,1,"Person node: 
+Name: Simon Willis Ouma.
+Address: P.O. Box 87912-80100, Mombasa in the Republic of Kenya.
+District: ['Mombasa'].
+"
+"(16, 0)",1,0.0342,"Land node: 
+Location: in Mombasa Municipality.
+Size: 0.0342 hectare.
+District: Mombasa.
+"
+"('Geoffrey K. Koros', 0)",2,1,"Person node: 
+Name: Geoffrey K. Koros.
+Address: P.O. Box 3970-40100, Kisuinu in the Republic of Kenya.
+District: ['Thika'].
+"
+"('Land Registrar', 0)",2,1,"Person node: 
+Name: Land Registrar.
+Address: ['P.O. Box 3970-40100, Kisuinu in the Republic of Kenya', 'P.O. Box 3512-40100, Kisumu in the Republic of Kenya'].
+District: ['Thika', 'Kisumu'].
+"
+"('J. W. KAMUYU', 0)",2,1,"Person node: 
+Name: J. W. KAMUYU.
+Address: P.O. Box 3970-40100, Kisuinu in the Republic of Kenya.
+District: ['Thika'].
+"
+"('Antony Mwendia Matheri', 0)",2,1,"Person node: 
+Name: Antony Mwendia Matheri.
+Address: P.O. Box 3970-40100, Kisuinu in the Republic of Kenya.
+District: ['Thika'].
+"
+"('THE LAND REGISTRATION ACT', 0)",3,1,"Org node: 
+Name: THE LAND REGISTRATION ACT.
+Address: ['P.O. Box 3970-40100, Kisuinu in the Republic of Kenya', 'P.O. Box 3512-40100, Kisumu in the Republic of Kenya', 'P.O. Box 53094 40200, Nairobi in the Republic of Kenya'].
+District: ['Thika', 'Kisumu', 'Nairobi'].
+"
+"(19, 0)",1,0.0194,"Land node: 
+Land Registration: title number Kisumu Municipality/Block 10/253.
+Size: 0.0194 hectare.
+"
+"('Judith Amondi Oketch', 0)",2,1,"Person node: 
+Name: Judith Amondi Oketch.
+Address: P.O. Box 2402-40100. Kisumu in the Republic of Kenya.
+District: ['Kisumu'].
+"
+"(25, 0)",1,0.12,"Land node: 
+Land Registration: title number Kisumu/Chiga/3292. and whereas sufficient evidence has been adduced to show that the land title deed issued thereof has been lost,.
+Size: 0.12 hectare.
+District: Kisumu.
+"
+"('Edward Aroka Kargungu Brevi', 0)",2,1,"Person node: 
+Name: Edward Aroka Kargungu Brevi.
+Address: ['P.O. Box 3737- 40100, Kisumu in the Republic of Kenya'].
+District: ['Kisumu'].
+"
+"(27, 0)",1,0.03,"Land node: 
+Land Registration: title number Kisumu/Wathorego/4514.
+Size: 0.03 hectare.
+District: Kisumu.
+"
+"('Appollo Obondo Oloo', 0)",2,1,"Person node: 
+Name: Appollo Obondo Oloo.
+Address: P.O. Box 3512-40100, Kisumu in the Republic of Kenya.
+District: ['Kisumu', 'Kisumu'].
+"
+"('G. O. NYANGWESO', 0)",2,1,"Person node: 
+Name: G. O. NYANGWESO.
+Address: P.O. Box 3512-40100, Kisumu in the Republic of Kenya.
+District: ['Kisumu', 'Kisumu'].
+"
+"('Tom Vitalis Otieno', 0)",2,1,"Person node: 
+Name: Tom Vitalis Otieno.
+Address: P.O. Box 3512-40100, Kisumu in the Republic of Kenya.
+District: ['Kisumu', 'Kisumu'].
+"
+"('Kisumu East/West Districts', 0)",3,1,"Org node: 
+Name: Kisumu East/West Districts.
+Address: P.O. Box 3512-40100, Kisumu in the Republic of Kenya.
+District: ['Kisumu', 'Kisumu'].
+"
+"(29, 0)",1,0.15,"Land node: 
+Land Registration: title number Kisumu/Kanyakwar ' A'/355.
+Land Registration: title number Kisumu/Pandpieri/2147.
+Size: 0.15 hectare.
+District: Kisumu.
+"
+"(36, 0)",1,0.03,"Land node: 
+Land Registration: title number Kisumu/Wathorego/4521.
+Size: 0.03 hectare.
+District: Kisumu.
+"
+"(38, 0)",1,0.03,"Land node: 
+Land Registration: title number Kisumu/Wathorego/4523.
+Size: 0.03 hectare.
+District: Kisumu.
+"
+"('Patricia Akinyi Oduor', 0)",2,1,"Person node: 
+Name: Patricia Akinyi Oduor.
+Address: P.O. Box 2620-40100, Kisumu in the Republic of Kenya.
+District: ['Kisumu'].
+"
+"(40, 0)",1,0.03,"Land node: 
+Land Registration: title number Kisumu/Konya/4712.
+Size: 0.03 hectare.
+District: Kisumu.
+"
+"('George Oduho Oliech', 0)",2,1,"Person node: 
+Name: George Oduho Oliech.
+Address: P.O. Box 1663-40100, Kisumu in the Republic of Kenya.
+District: ['Kisumu'].
+"
+"(42, 0)",1,0.028,"Land node: 
+Land Registration: title number Kisumu/Kasule/4426.
+Size: 0.028 hectare.
+District: Kisumu.
+"
+"('Stephen Jaramba Kariuki', 0)",2,1,"Person node: 
+Name: Stephen Jaramba Kariuki.
+Address: P.O. Box 190. Molo in the Republic of Kenya.
+District: ['Molo'].
+"
+"(44, 0)",1,0.56,"Land node: 
+Land Registration: title number Molo South/Ikumbi Block 5/127.
+Size: 0.56 hectare.
+District: Nakuru.
+"
+"('Mbugua Mungai Njuguna', 0)",2,1,"Person node: 
+Name: Mbugua Mungai Njuguna.
+Address: P.O. Box 17727, Nakuru in the Republic of Kenya.
+District: ['Nakuru'].
+"
+"(46, 0)",1,0.05,"Land node: 
+Land Registration: title number Bahati/Kabatini Block 1/4920.
+Size: 0.05 hectare.
+District: Nakuru.
+"
+"('George Gathua Waigi', 0)",2,1,"Person node: 
+Name: George Gathua Waigi.
+Address: P.O. Box 4069-20100, Nakuru in the Republic of Kenya.
+District: ['Nakuru'].
+"
+"(48, 0)",1,1,"Land node: 
+Land Registration: title number Njoro/Ngata Block 2/348.
+District: Nakuru.
+"
+"('Lilly Nyakowa Shiroya', 0)",2,1,"Person node: 
+Name: Lilly Nyakowa Shiroya.
+"
+"(50, 0)",1,1,"Land node: 
+Land Registration: title number S/Wanga/Lureko/2098.
+District: Kakamega.
+"
+"('Okwara Zacharia Imayi', 0)",2,1,"Person node: 
+Name: Okwara Zacharia Imayi.
+"
+"(52, 0)",1,0.26,"Land node: 
+Land Registration: title number S/W/Ekero/2585.
+Size: 0.26 hectare.
+District: Kakamega.
+"
+"('Mary Ngoiri', 0)",2,1,"Person node: 
+Name: Mary Ngoiri.
+"
+"(54, 0)",1,0.087,"Land node: 
+Land Registration: title number Muguga/Kanyariri/2981.
+Size: 0.087 hectare.
+District: Kiambu.
+"
+"('Ruiru', 0)",2,1,"Person node: 
+Name: Ruiru.
+Address: P.O. Box 10454-10100, Nairobi in the Republic of Kenya.
+District: ['Nairobi'].
+"
+"('Faith Wangechi Gitari', 0)",2,1,"Person node: 
+Name: Faith Wangechi Gitari.
+Address: P.O. Box 10454-10100, Nairobi in the Republic of Kenya.
+District: ['Nairobi'].
+"
+"(56, 0)",1,1,"Land node: 
+District: Thika.
+"
+"('Ndungu Njoroge', 0)",2,1,"Person node: 
+Name: Ndungu Njoroge.
+"
+"('Peter Mwaura Njoroge', 0)",2,1,"Person node: 
+Name: Peter Mwaura Njoroge.
+"
+"(59, 0)",1,1,"Land node: 
+Land Registration: title number Juja/Kiaura Block 1/586.
+District: Thika.
+"
+"('John Mwathi Mwangi', 0)",2,1,"Person node: 
+Name: John Mwathi Mwangi.
+Address: P.O. Box 263, Gatundu in the Republic of Kenya.
+District: ['Gatundu'].
+"
+"(62, 0)",1,1,"Land node: 
+Land Registration: title number Ruiru/Mugutha Block 1/T. 5299.
+District: Ruiru.
+"
+"('Joseph Ndiritu Gitonye', 0)",2,1,"Person node: 
+Name: Joseph Ndiritu Gitonye.
+Address: P.O. Box 177, Kiganjo in the Republic of Kenya.
+"
+"(64, 0)",1,1,"Land node: 
+Land Registration: title number Nyeri/Naromoru/1302.
+District: Nyeri.
+"
+"('Simon Kuiyaki Karungaru', 0)",2,1,"Person node: 
+Name: Simon Kuiyaki Karungaru.
+Address: P.O. Box 1302, Nyeri in the Republic of Kenya.
+District: ['Nyeri'].
+"
+"(66, 0)",1,0.81,"Land node: 
+Land Registration: title number Mweiga/Kamatongu Block 1/20.
+Size: 0.81 hectare.
+District: Nyeri.
+"
+"('Agnes Wanjiru Kiambuthi', 0)",2,1,"Person node: 
+Name: Agnes Wanjiru Kiambuthi.
+"
+"(68, 0)",1,0.0722,"Land node: 
+Land Registration: title number Mitubiri/Wempa/Block 5/804.
+Size: 0.0722 hectare.
+"
+"('Ebabaras Munyi Ngari', 0)",2,1,"Person node: 
+Name: Ebabaras Munyi Ngari.
+Address: P.O. Box 165. Kiritiri in the Republic of Kenya.
+"
+"(70, 0)",1,0.86,"Land node: 
+Land Registration: title number Mbeere/Mbita/3946.
+Size: 0.86 hectare.
+District: Mbeere.
+"
+"('Solomon Mwangi Githinji', 0)",2,1,"Person node: 
+Name: Solomon Mwangi Githinji.
+Address: P.O. Box 5351-00100, Nairobi in the Republic of Kenya.
+District: ['Nairobi'].
+"
+"(72, 0)",1,1,"Land node: 
+Land Registration: title number Mbeti/ Gachoka/923.
+District: Mbeere.
+"
+"('Ernest Mugo Gatigwa', 0)",2,1,"Person node: 
+Name: Ernest Mugo Gatigwa.
+Address: P.O. Box 20, Manyatta in the Republic of Kenya.
+"
+"(74, 0)",1,0.73,"Land node: 
+Land Registration: title number Gaturi/Nembure/12647.
+Size: 0.73 hectare.
+District: Embu.
+"
+"('Kellen Muthoni Ndwiga', 0)",2,1,"Person node: 
+Name: Kellen Muthoni Ndwiga.
+Address: P.O. Box 21, Embu in the Republic of Kenya.
+District: ['Embu'].
+"
+"('Rael Gikuu', 0)",2,1,"Person node: 
+Name: Rael Gikuu.
+Address: P.O. Box 21, Embu in the Republic of Kenya.
+District: ['Embu'].
+"
+"(76, 0)",1,0.58,"Land node: 
+Land Registration: title number Ngandori/Ngovio/3755. and whereas sufficient evidence has been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days.
+Location: the date hereof.
+Size: 0.58 hectare.
+District: Embu.
+"
+"('Zipporah Ruguru Gitonga', 0)",2,1,"Person node: 
+Name: Zipporah Ruguru Gitonga.
+Address: P.O. Box 171, Chogoria in the Republic of Kenya.
+"
+"(79, 0)",1,1,"Land node: 
+Land Registration: title number Mwimbi/S. Mugumango/1384.
+District: Meru South.
+"
+"('Dickson Kimandi Mwirabua', 0)",2,1,"Person node: 
+Name: Dickson Kimandi Mwirabua.
+Address: P.O. Box 199 60400, Chuka in the Republic of Kenya.
+"
+"(81, 0)",1,0.101,"Land node: 
+Land Registration: title number Karingani/Ndagani/3316.
+Size: 0.101 hectare.
+District: Meru South.
+"
+"('Nthiiri Eustace', 0)",2,1,"Person node: 
+Name: Nthiiri Eustace.
+Address: P.O. Box 283-60400, Chuka in the Republic of Kenya.
+"
+"(83, 0)",1,0.05,"Land node: 
+Land Registration: title number Karingani/Ndagani/7208.
+Size: 0.05 hectare.
+District: Meru South.
+"
+"('Elizaphan J. Nthiiri Reri', 0)",2,1,"Person node: 
+Name: Elizaphan J. Nthiiri Reri.
+Address: P.O. Box 49-60400, Chuka in the Republic of Kenya.
+"
+"(85, 0)",1,0.0223,"Land node: 
+Land Registration: title number Karingani/Mugirirwa/618/6.
+Size: 0.0223 hectare.
+District: Meru South.
+"
+"(""M'Ikingi Nganya"", 0)",2,1,"Person node: 
+Name: M'Ikingi Nganya.
+Address: P.O. Box 80, Chuka in the Republic of Kenya.
+"
+"(87, 0)",1,1,"Land node: 
+Land Registration: title number Karingani/Weru/74.
+District: Meru South.
+"
+"('Augustine Kooro Matu', 0)",2,1,"Person node: 
+Name: Augustine Kooro Matu.
+Address: P.O. Box 12, Kabazi in the Republic of Kenya.
+"
+"(89, 0)",1,1,"Land node: 
+Land Registration: title number Sipili/Donyoloip Block 2/6192 (Mutukanio).
+District: Laikipia.
+"
+"('Francis Muriithi Karicho', 0)",2,1,"Person node: 
+Name: Francis Muriithi Karicho.
+Address: P.O. Box 69, Ndaragwa in the Republic of Kenya.
+"
+"(91, 0)",1,1,"Land node: 
+Land Registration: title number Nyandarua/Ndaragwa Block 1/Kahutha/692.
+District: Nyandarua.
+"
+"('Francis Kariuki Ndungu', 0)",2,1,"Person node: 
+Name: Francis Kariuki Ndungu.
+Address: P.O. Box 29-20117, Naivasha in the Republic of Kenya.
+District: ['Naivasha'].
+"
+"('Nyandarua', 0)",3,1,"Org node: 
+Name: Nyandarua.
+Address: P.O. Box 29-20117, Naivasha in the Republic of Kenya.
+District: ['Naivasha'].
+"
+"(93, 0)",1,0.0465,"Land node: 
+Land Registration: title number Nyandarua/Ol Joro Orok Salient/8926.
+Size: 0.0465 hectare.
+"
+"('George Kirubi Njoroge', 0)",2,1,"Person node: 
+Name: George Kirubi Njoroge.
+"
+"(96, 0)",1,0.045,"Land node: 
+Land Registration: title number Nyandarua/Muruaki/7393.
+Size: 0.045 hectare.
+District: Nyandarua.
+"
+"('Ntetea ole Lamaita', 0)",2,1,"Person node: 
+Name: Ntetea ole Lamaita.
+Address: P.O. Box 78- 00208, Ngong in the Republic of Kenya.
+"
+"(98, 0)",1,1,"Land node: 
+Land Registration: title number KJD/Loodariak/13916.
+District: Kajiado.
+"
+"('Oloitokitosh-Kitengela/54190', 0)",2,1,"Person node: 
+Name: Oloitokitosh-Kitengela/54190.
+Address: P.O. Box 6766- 00200, Nairobi in the Republic of Kenya.
+District: ['Nairobi'].
+"
+"('Kajiado', 0)",2,1,"Person node: 
+Name: Kajiado.
+Address: P.O. Box 6766- 00200, Nairobi in the Republic of Kenya.
+District: ['Nairobi'].
+"
+"('Finnlemm Sacco Society Limited', 0)",3,1,"Org node: 
+Name: Finnlemm Sacco Society Limited.
+Address: P.O. Box 6766- 00200, Nairobi in the Republic of Kenya.
+District: ['Nairobi'].
+"
+"(100, 0)",1,0.046,"Land node: 
+Size: 0.046 hectare.
+District: Kajiado.
+"
+"('Stima Investment Co-operative Society Limited', 0)",3,1,"Org node: 
+Name: Stima Investment Co-operative Society Limited.
+Address: P.O. Box 75629, Nairobi in the Republic of Kenya.
+District: ['Nairobi'].
+"
+"(104, 0)",1,0.09,"Land node: 
+Land Registration: title number Kajiado/Kitengela/50663.
+Size: 0.09 hectare.
+District: Kajiado.
+"
+"('Enoch Otuma Ntoyai', 0)",2,1,"Person node: 
+Name: Enoch Otuma Ntoyai.
+Address: P.O. Box 5- 00209, Loitokitok in the Republic of Kenya.
+"
+"(106, 0)",1,1,"Land node: 
+Land Registration: title number Loitokitok/Enkariak-Rongena/3061.
+District: Kajiado.
+"
+"('Midas Development Limited', 0)",3,1,"Org node: 
+Name: Midas Development Limited.
+"
+"(108, 0)",1,1,"Land node: 
+Land Registration: title number Loitokitok/Kimana-Tikondo/4209.
+District: Kajiado.
+"
+"('Olokordo Nankoo Mosiany', 0)",2,1,"Person node: 
+Name: Olokordo Nankoo Mosiany.
+"
+"(110, 0)",1,1,"Land node: 
+Land Registration: title number Kajiado/Dalalekutuk/3215.
+District: Kajiado.
+"
+"('Samuel Gitau Kamau', 0)",2,1,"Person node: 
+Name: Samuel Gitau Kamau.
+Address: P.O. Box 39, Matathia in the Republic of Kenya.
+"
+"(112, 0)",1,1,"Land node: 
+Land Registration: title number Naivasha/Mwichiringiri Block 4/3665.
+District: Naivasha.
+"
+"('Margaret Wangui Wambura', 0)",2,1,"Person node: 
+Name: Margaret Wangui Wambura.
+"
+"(114, 0)",1,1,"Land node: 
+Location: Naivasha/Maraigushu Block 11/2463.
+District: Naivasha.
+"
+"('Muthoka Mutunga Kyalo', 0)",2,1,"Person node: 
+Name: Muthoka Mutunga Kyalo.
+Address: P.O. Box 181, Kajawa in the Republic of Kenya.
+"
+"(116, 0)",1,1,"Land node: 
+Land Registration: title number Makueni/Kajawa/144.
+District: Mbooni East.
+"
+"('Eric Onyango Muga', 0)",2,1,"Person node: 
+Name: Eric Onyango Muga.
+"
+"(118, 0)",1,1,"Land node: 
+Land Registration: title number Bukhayo/Kisoko/1304.
+District: Busia.
+"
+"('Joseph Karuwon', 0)",2,1,"Person node: 
+Name: Joseph Karuwon.
+Address: P.O. Box 120, Kapenguria in the Republic of Kenya.
+"
+"(120, 0)",1,0.045,"Land node: 
+Land Registration: title number West Pokot/Keringet 'A'/2430.
+Size: 0.045 hectare.
+District: West Pokot.
+"
+"('Otieno Onyango Ogonda', 0)",2,1,"Person node: 
+Name: Otieno Onyango Ogonda.
+"
+"(122, 0)",1,2.08,"Land node: 
+Land Registration: title number North Ugenya/Uyundo/553.
+Size: 2.08 hectare.
+"
+"('Tom Obuya Atik', 0)",2,1,"Person node: 
+Name: Tom Obuya Atik.
+"
+"(124, 0)",1,0.25,"Land node: 
+Land Registration: title number Central Kasipul/Kachieng/1282.
+Size: 0.25 hectare.
+District: Rachuonyo.
+"
+"('Samwel Ogweno Okoth', 0)",2,1,"Person node: 
+Name: Samwel Ogweno Okoth.
+"
+"(126, 0)",1,0.08,"Land node: 
+Land Registration: title number Central Kasipul/Kamuma/4904.
+Size: 0.08 hectare.
+District: Rachuonyo.
+"
+"('Karen Anyango Owiti', 0)",2,1,"Person node: 
+Name: Karen Anyango Owiti.
+"
+"(128, 0)",1,0.03,"Land node: 
+Land Registration: title number Central Kasipul/Konyango/2825.
+Size: 0.03 hectare.
+District: Rachuonyo.
+"
+"('Otaro Oyayo', 0)",2,1,"Person node: 
+Name: Otaro Oyayo.
+Address: P.O. Box 232, Kehancha in the Republic of Kenya.
+"
+"(130, 0)",1,0.155,"Land node: 
+Land Registration: title number Bugumbe/Mabera/1316.
+Size: 0.155 hectare.
+District: Kuria.
+"
+"(""Nyang'au Nyangera"", 0)",2,1,"Person node: 
+Name: Nyang'au Nyangera.
+Address: P.O. Box 1129- 40200, Kisii in the Republic of Kenya.
+District: ['Kisii'].
+"
+"(132, 0)",1,1,"Land node: 
+Land Registration: title number Nyaribari Chache/Nyanturago/816.
+District: Kisii.
+"
+"('John Ragira Mogaka', 0)",2,1,"Person node: 
+Name: John Ragira Mogaka.
+Address: P.O. Box 144, Nyamache in the Republic of, Kenya.
+District: ['Nyamache'].
+"
+"(134, 0)",1,0.09,"Land node: 
+Land Registration: title number Bassi/Bondonya/2018.
+Size: 0.09 hectare.
+District: Kisii.
+"
+"('Annah Nyabonyi Nyangwara', 0)",2,1,"Person node: 
+Name: Annah Nyabonyi Nyangwara.
+Address: P.O. Box 155-40200, Kisii in the Republic of Kenya.
+District: ['Kisii'].
+"
+"(136, 0)",1,0.16,"Land node: 
+Land Registration: title number West Kitutu/Bomatara/2549.
+Size: 0.16 hectare.
+District: Kisii.
+"
+"('Elias Nyantika Omosiere', 0)",2,1,"Person node: 
+Name: Elias Nyantika Omosiere.
+Address: P.O. Box 65, Keumbu in the Republic of Kenya.
+"
+"(138, 0)",1,1,"Land node: 
+Land Registration: title number Nyaribari Chache/Keumbu/1371.
+District: Kisii.
+"
+"('Margaret Nthenya Mwangangi', 0)",2,1,"Person node: 
+Name: Margaret Nthenya Mwangangi.
+Address: P.O. Box 752- 80108, Kilifi in the Republic of Kenya.
+District: ['Kilifi'].
+"
+"(140, 0)",1,1,"Land node: 
+Land Registration: title number Lamu/Hindi Magogoni/1342.
+District: Lamu.
+"
+"('Dama Sefu Nyale', 0)",2,1,"Person node: 
+Name: Dama Sefu Nyale.
+"
+"(142, 0)",1,1,"Land node: 
+Land Registration: title number Mida/Majaoni/626.
+District: Kilifi.
+"
+"('Ali Mwashaka Mrumwengu', 0)",2,1,"Person node: 
+Name: Ali Mwashaka Mrumwengu.
+"
+"(144, 0)",1,1,"Land node: 
+Land Registration: title number Kwale/Ng'ombeni/177.
+District: Kwale.
+"
+"('Kuguru Food Complex Limited', 0)",3,1,"Org node: 
+Name: Kuguru Food Complex Limited.
+Address: P.O. Box 45510, Nairobi in the Republic of Kenya.
+District: ['Nairobi'].
+"
+"(146, 0)",1,1,"Land node: 
+Land Registration: L.R. number 209/12038.
+Location: in the City of Nairobi in Nairobi Area, by virtue of a grant registered I.R. 187607, and whereas the land register.
+"
+"('Dickson Kinao Kahoro', 0)",2,1,"Person node: 
+Name: Dickson Kinao Kahoro.
+Address: P.O. Box 53094 40200, Nairobi in the Republic of Kenya.
+District: ['Nairobi', 'Nairobi'].
+"
+"('Joyce Wangui Kinaro', 0)",2,1,"Person node: 
+Name: Joyce Wangui Kinaro.
+Address: P.O. Box 53094 40200, Nairobi in the Republic of Kenya.
+District: ['Nairobi', 'Nairobi'].
+"
+"('Registrar', 0)",2,1,"Person node: 
+Name: Registrar.
+Address: P.O. Box 53094 40200, Nairobi in the Republic of Kenya.
+District: ['Nairobi', 'Nairobi'].
+"
+"('B. F. ATIENO', 0)",2,1,"Person node: 
+Name: B. F. ATIENO.
+Address: P.O. Box 53094 40200, Nairobi in the Republic of Kenya.
+District: ['Nairobi', 'Nairobi'].
+"
+"('Mohamedsalah Mohamud Osman', 0)",2,1,"Person node: 
+Name: Mohamedsalah Mohamud Osman.
+Address: P.O. Box 53094 40200, Nairobi in the Republic of Kenya.
+District: ['Nairobi', 'Nairobi'].
+"
+"(148, 0)",1,1,"Land node: 
+Land Registration: I.R. number 44329/1.
+Land Registration: L.R. number 12715/163.
+Land Registration: L.R. number 12715/12519.
+Location: in north west of Athi River.
+District: Machakos.
+"
+"('Peter Gatonye Kagimbi', 0)",2,1,"Person node: 
+Name: Peter Gatonye Kagimbi.
+Address: P.O. Box 214 00217, Limuru in the Republic of Kenya.
+"
+"('James Njuguna Gatonye', 0)",2,1,"Person node: 
+Name: James Njuguna Gatonye.
+Address: P.O. Box 214 00217, Limuru in the Republic of Kenya.
+"
+"(155, 0)",1,1,"Land node: 
+Land Registration: L.R. number 6585/316.
+Location: in Thomsons - 2457 Falls Town.
+District: Laikipia.
+"
+"('Samuel Kimani Mukundi', 0)",2,1,"Person node: 
+Name: Samuel Kimani Mukundi.
+Address: P.O. Box 10913-00100, Nairobi in the Republic of Kenya.
+District: ['Nairobi'].
+"
+"('Nakuru/Municipality Block 26/993', 0)",3,1,"Org node: 
+Name: Nakuru/Municipality Block 26/993.
+Address: P.O. Box 10913-00100, Nairobi in the Republic of Kenya.
+District: ['Nairobi'].
+"
+"(158, 0)",1,0.0459,"Land node: 
+Size: 0.0459 hectare.
+District: Nakuru.
+"
+"('Ibrahim Ali Omar', 0)",2,1,"Person node: 
+Name: Ibrahim Ali Omar.
+Address: P.O. Box 85608, Mombasa in the Republic of Kenya.
+District: ['Mombasa'].
+"
+"('Ahmed Ali Omar', 0)",2,1,"Person node: 
+Name: Ahmed Ali Omar.
+Address: P.O. Box 85608, Mombasa in the Republic of Kenya.
+District: ['Mombasa'].
+"
+"(161, 0)",1,1,"Land node: 
+Land Registration: title number Mombasa/Block XXI/275.
+"
+"('Raksha Mahendra Patel', 0)",2,1,"Person node: 
+Name: Raksha Mahendra Patel.
+Address: P.O. Box 82676, Mombasa in the Republic of Kenya.
+District: ['Mombasa'].
+"
+"('Mahendra Jashbhai Patel', 0)",2,1,"Person node: 
+Name: Mahendra Jashbhai Patel.
+Address: P.O. Box 82676, Mombasa in the Republic of Kenya.
+District: ['Mombasa'].
+"
+"(164, 0)",1,1,"Land node: 
+Land Registration: title number Mombasa Block XXVI/155.
+District: Mombasa.
+"
+"('Bedi Investment', 0)",2,1,"Person node: 
+Name: Bedi Investment.
+Address: P.O. Box 13339, Nakuru in the Republic of Kenya.
+District: ['Nakuru'].
+"
+"(167, 0)",1,1.00,"Land node: 
+Land Registration: title number Nakuru/Municipality Block 16/153.
+Size: 1.00 hectare.
+District: Nakuru.
+"
+"('Benjamin Okungu Dovolosho (deceased)', 0)",2,1,"Person node: 
+Name: Benjamin Okungu Dovolosho (deceased).
+"
+"(169, 0)",1,0.846,"Land node: 
+Land Registration: title number South Maragoli/Buyonga/2173.
+Size: 0.846 hectare.
+District: Vihiga.
+"
+"('Agola Ojenyi (deceased)', 0)",2,1,"Person node: 
+Name: Agola Ojenyi (deceased).
+"
+"(171, 0)",1,0.8,"Land node: 
+Land Registration: title number Kakamega/Mbale/419.
+Size: 0.8 hectare.
+District: Vihiga.
+"
+"('Martin Omuyoyi Odundo', 0)",2,1,"Person node: 
+Name: Martin Omuyoyi Odundo.
+"
+"(173, 0)",1,0.18,"Land node: 
+Land Registration: title number West Bunyore/Ebutanyi/1740.
+Size: 0.18 hectare.
+"
+"('Kisumu', 0)",2,1,"Person node: 
+Name: Kisumu.
+Address: P.O. Box 1292, Kisumu in the Republic of Kenya.
+District: ['Kisumu'].
+"
+"('Maritha Odero Ochanjo', 0)",2,1,"Person node: 
+Name: Maritha Odero Ochanjo.
+Address: P.O. Box 1292, Kisumu in the Republic of Kenya.
+District: ['Kisumu'].
+"
+"(175, 0)",1,1,"Land node: 
+District: Kisumu.
+"
+"('Fred Gachago Mwai', 0)",2,1,"Person node: 
+Name: Fred Gachago Mwai.
+"
+"(178, 0)",1,1,"Land node: 
+Land Registration: title number Kilifi/Jimba/221.
+District: Kilifi.
+"
+"('Margaret Imali Omutula', 0)",2,1,"Person node: 
+Name: Margaret Imali Omutula.
+"
+"('Mary Kahendi Omutula', 0)",2,1,"Person node: 
+Name: Mary Kahendi Omutula.
+"
+"('Joyce Otiro Omutula', 0)",2,1,"Person node: 
+Name: Joyce Otiro Omutula.
+"
+"('Ibrahim Omutula s/o Benjamin Lukoko', 0)",2,1,"Person node: 
+Name: Ibrahim Omutula s/o Benjamin Lukoko.
+"
+"('Marama/Shinamwenyuli/2159', 0)",3,1,"Org node: 
+Name: Marama/Shinamwenyuli/2159.
+"
+"(180, 0)",1,1,"Land node: 
+Location: the date hereof.
+"
+"('Milka Watetu Gathiru', 0)",2,1,"Person node: 
+Name: Milka Watetu Gathiru.
+"
+"('Daniel Menge Moses', 0)",2,1,"Person node: 
+Name: Daniel Menge Moses.
+"
+"('Daniel Mathenge Moses', 0)",2,1,"Person node: 
+Name: Daniel Mathenge Moses.
+"
+"('Nyeri', 0)",3,1,"Org node: 
+Name: Nyeri.
+"
+"('the High Court of Kenya', 0)",3,1,"Org node: 
+Name: the High Court of Kenya.
+"
+"(186, 0)",1,1,"Land node: 
+Location: the date hereof.
+District: Nyeri.
+"
+"('John Kariuki Tumbo', 0)",2,1,"Person node: 
+Name: John Kariuki Tumbo.
+"
+"('John Kariuki Tumbo', 1)",2,1,"Person node: 
+Name: John Kariuki Tumbo.
+"
+"('Ngugi Njoroge', 0)",2,1,"Person node: 
+Name: Ngugi Njoroge.
+"
+"('Njoroge', 0)",2,1,"Person node: 
+Name: Njoroge.
+"
+"('Karai Farmers five', 0)",3,1,"Org node: 
+Name: Karai Farmers five.
+"
+"(193, 0)",1,0.7398,"Land node: 
+Location: Naivasha/MaraigushuBlock.
+Size: 0.7398 hectare.
+"
