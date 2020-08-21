@@ -12,7 +12,11 @@ Our outputs are:
 
 ## directories
 
-Each directory in this folder handles one portion of our pipeline. Within each directory is another readme file with further information on code in the directory. A high-level overview of the processes completed in each directory is as follows:
+Each directory in this folder handles one portion of our pipeline. Within each directory is another readme file with further information on code in the directory. 
+
+The vast majority of our code is written in jupyter notebook files for ease of annotation, visualization, and debugging. In order to call functions in one notebook from another, almost all of our notebooks have been converted to .py format. These .py versions are all stored in the directory 'util/py_files.' If you modify a notebook and would like the changes to a function to take effect within another script, the function convertAll() within the file setup.ipynb (or setup.py) in the util folder will reconvert all notebooks to .py format.
+
+A high-level overview of the processes completed in each directory is as follows:
 
 * **A_pdf_to_text:** Craft API calls to websites containing the Kenya Gazettes. Use Microsoft Cognitive Services' Read API on these PDFs. Finally, json output of Read API into ordered text.
 

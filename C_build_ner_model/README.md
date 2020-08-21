@@ -11,3 +11,41 @@ Code is split through several files, each of which has a more detailed descripti
 * **C_exportNERAPI**: A notebook that accesses the trained spaCy model. Run it on any entire (pre-processed) gazette. 
 
 * **Z_general_spaCy_beginner_tutorial.ipynb:** A notebook that walks through accessing, using, and modifying spaCy for databases in English as well as in other languages(such as Portuguese).
+
+
+## Skills Required
+
+* The only skill required is operating `spaCy`. One can learn to operate spacy by following the `Y_general_spaCy_tutorial.ipynb` and reading through the spaCy website: https://spacy.io/api, which is well documented.
+
+* The other skill required is a basic knowledge of python.
+
+## Assumptions
+
+Here are the overall assumptions made in this repo. The specific assumptions are stated in the notebooks.
+
+* **Clean text**: the spaCy model training assumes that it is being trained on a clean text with no/minimal typos and no segmentation fault.
+
+* **Short text**: the spaCy model is best equipped for relatively short segments that are usually one paragraph long (about 10 lines of text).
+
+## FAQ:
+
+* *How much training data is enough training data to have spaCy work effectively?* 
+
+We don't have a full proof method of determining how much training data is sufficient. However, we have gained a promising model performance with as few as 20 notices/sections of the gazette. Our most up to date model, which lives in `model_outputs`, is trained on 6286 Land Registration Act notices.
+
+* *How long does it take to retrain the spaCy model?*
+
+Two parts of the training take long: extracting the default entities and training the model. In order to counteract the catastrophic forgetting problem described in the `A_train_modified_spacy_model_ipynb` notebook, the model needs to be trained on the default labels as well. Extracting these default entities for a large number of notices takes some time. For example, running this proceedure on the 6286 notices took close to four hours.
+
+The other part that takes a while is training the model. Training the model on 6286 notices with 150 iterations took a little over four hours. In total, the current model in the `model_outputs` repo took eight(8) hours.
+
+
+* *I see that the spaCy model is only trained on the Land Registration Act. How versatile is it?* 
+
+Unfortunately, the current model in the `model_outputs` folder performs poorly on acts other than the Land Registration Act. It performs slightly better than the default spaCy model on some entities while it performs slightly worse on other entities. Overall, the current modified model's performance on acts other than the Land Registration Act is unrealiable.
+
+* *What potential bottlenecks does the model have?*
+
+*Labels*: When training the model, make sure all your modified labels are in the `modified_labels` list. For instance, if one wishes to extract the entity called 'ANIMAL', this label needs to be added to the `modified_labels` list.
+
+*Packages*: When one is importing spaCy, also import the dependencies required. Since these dependencies depend on the user's local computer, we recommend reading through the error messages from the installation process and fixing them as needed.

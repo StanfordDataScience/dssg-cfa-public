@@ -13,3 +13,13 @@ Code is split through several files, each of which has a more detailed descripti
 * **orderingText.ipynb:** Turns json output of Read API into raw text.
 
 * **walkthrough_notebook.ipynb (or .html):** walks the user through the code in this directory which forms a sub-section of our overall pipeline. Includes intermediate outputs for the sake of clarity.
+
+
+## Skills required
+* Thea API stuff?
+
+* All that is needed to understand the ordering of text is a bit of geometric sense and a very basic understanding of how the k-means algorithm works (for determining how many columns there are).
+
+## FAQ
+
+* *Why does the orderingText.readPage() function return an empty string for an entire page, and not infrequently?* readPage is set by default to not even try to read pages that it detects has having more than two columns. It will just return an emtpy string every time this happens. This is done out of caution, and a wish to avoid adding bad or poorly read text at the expense of capturing every last scrap of gazette. This can easily be avoided by setting the readTables flag to be true, but we caution the reader that reading tables is not something readAPI does well.
