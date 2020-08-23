@@ -12,14 +12,18 @@ Code is split through several files, each of which has a more detailed descripti
 
 * **Z_general_spaCy_beginner_tutorial.ipynb:** A notebook that walks through accessing, using, and modifying spaCy for databases in English as well as in other languages(such as Portuguese).
 
+## Getting Started
 
-## Skills Required
+Start by training the modified model by walking through `A_train_modified_spacy_model_ipynb` notebook, then test the model by walking through the `B_test_modified_spacy_model.ipynb` notebook and export the entities to be converted to nodes and edges using the `C_exportNERAPI` notebook.
+
+
+### Skills Required
 
 * The only skill required is operating `spaCy`. One can learn to operate spacy by following the `Y_general_spaCy_tutorial.ipynb` and reading through the spaCy website: https://spacy.io/api, which is well documented.
 
 * The other skill required is a basic knowledge of python.
 
-## Assumptions
+### Assumptions
 
 Here are the overall assumptions made in this repo. The specific assumptions are stated in the notebooks.
 
@@ -27,7 +31,7 @@ Here are the overall assumptions made in this repo. The specific assumptions are
 
 * **Short text**: the spaCy model is best equipped for relatively short segments that are usually one paragraph long (about 10 lines of text).
 
-## FAQ:
+### FAQ:
 
 * *How much training data is enough training data to have spaCy work effectively?* 
 
@@ -49,3 +53,7 @@ Unfortunately, the current model in the `model_outputs` folder performs poorly o
 *Labels*: When training the model, make sure all your modified labels are in the `modified_labels` list. For instance, if one wishes to extract the entity called 'ANIMAL', this label needs to be added to the `modified_labels` list.
 
 *Packages*: When one is importing spaCy, also import the dependencies required. Since these dependencies depend on the user's local computer, we recommend reading through the error messages from the installation process and fixing them as needed.
+
+### Future Directions
+
+* Future directions have been outlined, in detail, under the Conclusion section in the `B_test_modified_spacy_model.ipynb` notebook.

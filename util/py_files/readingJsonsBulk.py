@@ -106,38 +106,38 @@ def getNumPages(jsonDict):
 # In[4]:
 
 
-def readPage(jsonDict, pageNum, keepPageHeader = False, includeTables = False, cleaningFns = []):
-    """Given a json dict of a gazette, read the text of a page into one string and return it.
+# def readPage(jsonDict, pageNum, keepPageHeader = False, includeTables = False, cleaningFns = []):
+#     """Given a json dict of a gazette, read the text of a page into one string and return it.
     
-    args:
-    jsonDict: dictionary representing an entire gazette
-    pageNum: page number to read
-    keepPageHeader: If True keep the three items appearing at the top of each page 
-            (date, "The Kenya Gazette", page num)
-    includeTables: if True, include the transcription of pages which look like tables (>2 columns).
-         Otherwise, return the empty string for table pages.
-    cleaningFNs: functions to call on the text to clean it up (ie replacing 'No.' with 'number')
+#     args:
+#     jsonDict: dictionary representing an entire gazette
+#     pageNum: page number to read
+#     keepPageHeader: If True keep the three items appearing at the top of each page 
+#             (date, "The Kenya Gazette", page num)
+#     includeTables: if True, include the transcription of pages which look like tables (>2 columns).
+#          Otherwise, return the empty string for table pages.
+#     cleaningFNs: functions to call on the text to clean it up (ie replacing 'No.' with 'number')
     
-    returns: the cleaned and ordered text of one gazette page."""
+#     returns: the cleaned and ordered text of one gazette page."""
     
-    page_lines = getLines(jsonDict, pageNum)
-    if len(page_lines) < 20:
-        # not enough lines on this page, don't bother with it.
-        return ''
-    if pageNum == 0:
-        text = orderingText.readTitlePage(page_lines)
-    else:
-        numCols = orderingText.getNumCols(page_lines)
-        if numCols == None or numCols > 2:
-            if includeTables:
-                text = orderingText.readTablePage(page_lines)
-            else:
-                return ''
-        else:
-            text = orderingText.read2ColPagePreserveParagraphs(page_lines)
-    for fn in cleaningFns:
-        text = fn(text)
-    return text
+#     page_lines = getLines(jsonDict, pageNum)
+#     if len(page_lines) < 20:
+#         # not enough lines on this page, don't bother with it.
+#         return ''
+#     if pageNum == 0:
+#         text = orderingText.readTitlePage(page_lines)
+#     else:
+#         numCols = orderingText.getNumCols(page_lines)
+#         if numCols == None or numCols > 2:
+#             if includeTables:
+#                 text = orderingText.readTablePage(page_lines)
+#             else:
+#                 return ''
+#         else:
+#             text = orderingText.read2ColPagePreserveParagraphs(page_lines)
+#     for fn in cleaningFns:
+#         text = fn(text)
+#     return text
 
 def readEntireGazette(jsonNum, keepPageHeader = False, includeTables = False, cleaningFns = []):
     """Read the text of an entire gazette into one string and return it (in order).
@@ -156,7 +156,7 @@ def readEntireGazette(jsonNum, keepPageHeader = False, includeTables = False, cl
     numPages = getNumPages(jsonDict)
     ret = ''
     for pageNum in range(0, numPages):
-        ret += readPage(jsonDict, pageNum, keepPageHeader, includeTables, cleaningFns)
+        ret += orderingText.readPage(jsonDict, pageNum, keepPageHeader, includeTables, cleaningFns)
     return ret
 
 def writeEntireGazetteToCsv(jsonNum, filepath = 'default',
@@ -235,7 +235,7 @@ def writeGroupOfGazettesToCsv(startI, endI, filepath = 'default',
         writeEntireGazetteToCsv(i, filepath, filename, startYear = startYear, endYear = endYear, 
                                 includeNonLRA = includeNonLRA, includeSpecial = includeSpecial,
                                 keepPageHeader = keepPageHeader, includeTables = includeTables,
-                                cleaningFns = cleaningFNs)
+                                cleaningFns = cleaningFns)
         
 
 

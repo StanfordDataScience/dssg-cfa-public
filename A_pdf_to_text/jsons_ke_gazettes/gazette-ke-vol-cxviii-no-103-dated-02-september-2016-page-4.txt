@@ -1,0 +1,90 @@
+3614 THE KENYA GAZETTE 2nd September, 2016 Sub-County Land Control Board 
+Mbita Mbita 
+Rangwe Rangwe 
+GAZETTE NOTICE NO. 6916 
+THE NATIONAL LAND COMMISSION 
+THE NATIONAL LAND INFORMATION MANAGEMENT SYSTEM STANDARDS AND GUIDELINES 
+AUGUST 2016 
+List of Abbreviations and Acronyms 
+Foreword 
+Executive Summary 
+1. Introduction 
+1.1 Background 
+1.2 Objectives 
+1.3 Scope 
+1.4 Revision and Updates 
+2. Vision, Mission and Guiding Principles 
+2.1 Vision 
+2.2 Mission 
+2.3 General Principles 
+2.4 Substantive Principles 
+2.5 Operational Principles 
+3. Institutions and Responsibilities 
+3.1 Overview 
+3.2 Roles and Responsibilities 
+4. Processes and Procedures 
+5. Availability, Organization, Quality and Documentation of Land Information 
+5.1 Availability of Land Information 
+5.2 Organization of Land Information 
+5.3 Quality and Documentation of Land Information 
+6. System Security, Availability and Accessibility 
+6.1 System Security and Accessibility 
+6.2 System Availability 
+6.3 Information Dissemination 
+6.4 System Integration 
+7. Implementation and Pricing of Land Information 
+7.1 Assessment of Readiness 
+2nd September, 2016 Land Control Board Members 
+Deputy County Commissioner-(Chairman) 
+Land Administration Officer 
+Sub-County Agricultural Officer 
+Joseph O. Adinda 
+David Orwa 
+Nicholas Ouma Ojwang 
+Dorothy Akinyi Achieng 
+Obumba Elizabeth Awiti 
+Erastus Okoth Nyamuni 
+Marcellus Odingo Ogange 
+Grace Norah Odhiambo 
+John Otieno Osodo 
+Deputy County Commissioner-(Chairman) 
+Land Administration Officer 
+Sub-County Agricultural Officer 
+Benjamin M. Omune 
+Paul Odhiambo Osuga 
+Silvia Anyango Ogira 
+Dismus A. Onyiego 
+Philemon Anyango 
+Chrisantus Okello Nyandiko 
+Mary Akumu Oyoo 
+Philister Oketch Odhiambo 
+Raymond Mbai 
+7.2 Implementation Strategy 
+7.3 Project Financing 
+7.4 Pricing of Land Information Services 
+8. Transitional Provisions 
+9. Glossary of Terms 
+List of Abbreviations and Acronyms 
+API Application Programming Interface 
+CoK Constitution of Kenya 
+KNSDI Kenya National Spatial Data Infrastructure 
+LADM Land Administration Domain Model 
+LIMS Land Information Management System 
+MOLHUD Ministry of Land, Housing and Urban 
+Development 
+MOU Memorandum of Understanding 
+NLC National Land Commission 
+NLIMS National Land Information Management System NLP National L'and Policy 
+NMA National Mapping Agency 
+NPKI National Public Key Infrastructure 
+NSDI National Spatial Data Infrastructure 
+PID Preliminary Index Diagram 
+PIN Personal Identification Number 
+QMS Quality Management System 
+RIM Registry Index Map 
+SMS Short Message Service 
+SOA Service Oriented Architecture 
+STDM Social Tenure Domain Model 
+UTM Universal Transverse Mercator 
+Foreword 
+The development of a National Land Information Management System (NLIMS) requires concerted effort and collaboration amongst the various partners involved in land administration and management in Kenya. The National Land Policy (NLP) provides the impetus towards the successful implementation of NLIMS by recognition of the need for the development of standards and guidelines with respect to pricing of land information, data sharing and system integration. This NLP prescription is a recommendation to govemment to put in place the standards and guidelines to govem pricing and sharing of land information and system integration. 

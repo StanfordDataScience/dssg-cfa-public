@@ -1,0 +1,53 @@
+2nd September, 2016 THE KENYA GAZETTE 3621 
+producers, data custodian, and modalities of accessing the data including any restrictions on access and use, currency of the data, data accuracy aspects. 
+Land Administration Domain Model (LADM): an international standard that provides an abstract, conceptual model covering basic information-related components of land administration. The model defines four packages related to parties; basic administrative units, spatial units; spatial sources and spatial representations. It provides a basis for national and regional profiles 
+Land data: see land information 
+Land information: any land related data that will support land administration with respect to NLIMS 
+Land information services: both data information and services 
+Land Information Management System (LIMS): is an information system that enables the capture, management, and analysis of geographically referenced land-related data in order to produce land information for decision-making in land administration and management. NLIMS is the Kenya realization of LIMS. 
+Memorandum of Understanding (MOU): a document that expresses the bilateral or multilateral agreement between two or more parties. 
+Metadata: data that provides information about other data(set). 
+National Land Information Management System (NLIMS): an information system that captures all the processes undertaken in land administration and management including but not restricted to land administration, land adjudication and settlement, survey, land use planning and natural resource management. 
+National Mapping Agency (NMA): a public organisation responsible for producing topographic maps and geographic information of a country. For Kenya this is the Survey of Kenya. 
+National Public Key Infrastructure (NPKI): a national framework that supports the distribution and identification of public encryption keys, enabling users and computers to both securely exchange data over networks such as the Internet and verify the identity of the other party. Procedure: series of logical activities and standards guiding the collection, input, manipulation, sharing and access of data in the NLIMS. 
+Process: a series of actions or steps taken in order to achieve a particular end particularly with respect to land administration. 
+Projection: a systematic transformation of the latitudes and longitudes of locations on the surface of a sphere or an ellipsoid into Nothings and Eastings (or X and Y) locations on a plane. 
+Recovery Centre: a virtual site that is secure and used for backing up data, information for a particular organization. 
+Regulatory Committee: committee established to enforce the provisions in the Standards and guidelines. 
+Service Oriented Architecture(SOA): a style/configuration or architectural pattern in computer software design in such a way that computer applications are composed of discrete software agents that have simple, well defined interfaces and are orchestrated through a loose coupling to perform a required function. 
+Special Interest Groups: a group of people or an organization seeking or receiving special advantages, typically through political lobbying. Stakeholder: a party (an individual or group of individuals) that has an interest in an enterprise or project. 
+Standard: a document that provides requirements, specifications, guidelines or characteristics that can be used consistently to ensure that materials, products, processes and services are fit for their purpose. 
+System Availability: is the probability that a system will work as required, when required, during the period of a mission. 
+System Integration: process of linking different land information systems and software applications physically or functionally to act as a coordinated whole. 
+User Registration: the process of assigning users credentials that effectively proves their identity in NLIMS. 
+Universal Transverse Mercator (UTM): is a system of map projection that uses 2-dimensional Cartesian coordinates to describe positions of the surface of the Earth on a map. 
+MR/9721090* 
+3621 
+GAZETTE NOTICE NO. 6917 
+THE LAND REGISTRATION ACT 
+(No. 3 of 2012) 
+ISSUE OF A PROVISIONAL CERTIFICATE 
+WHEREAS Antonetta Franklina D'Cruz, as the executrix of the estate of Caetano Manuel D'Cruz (deceased), of P.O. Box 42626- 00100, Nairobi in the Republic of Kenya, is registered as proprietor lessee of all that piece of land known as L.R. No. 209/5355, situate in the city of Nairobi in the Nairobi Area, by virtue of a grant registered as I.R. 14262/1, and whereas sufficient evidence has been adduced to show that the said grant has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a provisional certificate of title provided that no objection has been received within that period. 
+Dated the 2nd September, 2016. 
+P. K. TONUI, 
+MR/9672358 Registrar of Titles, Nairobi. GAZETTE NOTICE NO. 6918 
+THE LAND REGISTRATION ACT. 
+(No. 3 of2012) 
+ISSUE OF A PROVISIONAL SUB-LEASE 
+WHEREAS (1) Giancarlo Boananno and (2) Elizabeth Bonanno, both of P.O. Box 95551-80100, Mombasa in the Republic of Kenya, are registered as lessees of all that Apartment Studio No. 8, on Block "B", situate on plot No. 20030/I/MN, situate within Mombasa Municipality in Mombasa District, registered as C.R. 62717/1, and whereas sufficient evidence has been adduced to show that the said sub-lease is lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a provisional sub-lease provided that no objection has been received within that period. 
+Dated the 2nd September, 2016. 
+J. G. WANJOHI. 
+MR/9721026 Registrar of Titles, Mombasa. . GAZETTE NOTICE NO. 6919 
+THE LAND REGISTRATION ACT 
+(No. 3 of 2012) 
+ISSUE OF A NEW CERTIFICATE OF LEASE 
+WHEREAS Rachel Muthoni Kibunja, of P.O. Box 52233, Nairobi in the Republic of Kenya, is registered as proprietor in leasehold interest of all that piece of land containing 0.0256 hectare or thereabouts, situate in the district of Nairobi, registered under title No. Nairobi/Block 32/605, and whereas sufficient evidence has been adduced to show that the certificate of lease issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new certificate of lease provided that no objection has been received within that period. 
+Dated the 2nd September, 2016. 
+S. N. NABULINDO, MR/9721040 Land Registrar, Nairobi. GAZETTE NOTICE NO. 6920 
+THE LAND REGISTRATION ACT 
+(No. 3 of 2012) 
+ISSUE OF A NEW CERTIFICATE OF LEASE 
+WHEREAS Margaret Mugure Njuguna, of P.O. Box 2628-00200, Nairobi in the Republic of Kenya, is registered as proprietor in leasehold interest of all that piece of land containing 0.0158 hectare or thereabouts, situate in the district of Nairobi, registered under title No. Nairobi/Block 111/788, and whereas sufficient evidence has been adduced to show that the certificate of lease issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new certificate of lease provided that no objection has been received within that period. 
+Dated the 2nd September, 2016. 
+S. N. NABULINDO, 
+MR/9721178 Land Registrar, Nairobi. 

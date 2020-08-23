@@ -1,0 +1,64 @@
+2nd September, 2016 THE KENYA GAZETTE 3619 
+of the said land information for NLIMS according to these guidelines and laws of Kenya. 
+3. All institutions that generate land information shall provide a list of data, for the processes listed above, according these guidelines. 
+4. It is the responsibility of the participating institutions to develop, maintain and share the processes as a schedule which will be complementary to this document. 
+5. Procedures and processes shall be continually reviewed and improved. 
+5. Availability, Organization, Quality and Documentation of Land Information 
+5.1 Availability of Land Information 
+1. The following land information on all categories of land shall be available in the NLIMS: 
+(1) Planning data: land use plans, development plans, part development plans 
+(ii) Survey data: survey plans, maps, Registry Index Maps (RIMs), Preliminary Index Diagrams (PIDs), satellite imagery, aerial photographs, and topographical maps among others 
+(iii) Parcel data: file number, parcel number, area, rights, restrictions and responsibilities 
+(iv) Updated land information of all informal settlements 
+(v) National and County administrative boundary data 
+(vi) Public institution cadastres 
+(vii) Public purpose land and utilities data 
+(viii)Land adjudication data 
+(ix) Valuation and taxation data 
+2. NLC shall prepare an inventory of institutions that generate land information relevant to NLIMS and require the existing data to be shared/availed. 
+3. Institutions that generate land information, shall produce and make data available to the NLIMS in a format prescribed by the standards as per the Annex. 
+4. Land information captured in land registration programmes to conform with the NLIMS standards and guidelines. 
+5. Institutions that generate land information shall update and share their records continually with NLIMS. 
+6. NLC shall make available all land information in its repositories to authorized entities in conformity with the standards. 
+5.2 Organization of Land Information 
+1. Land information shall be captured according to internationally accepted standards. 
+2. Attributes for various land information domains shall be defined in conformity with relevant internationally accepted standards. 
+3 . Georeferencing of land information : 
+(i) The National Mapping Agency (NMA) shall lead in harmonizing co-ordinate systems. 
+(ii) All spatial land information shall be georeferenced on Arc 1960 Datum or any other datum recommended by the National Mapping Agency .. 
+(iii) The National Mapping Agency shall be responsible for determining and providing of transformation parameters between various coordinate systems used within Kenya. (iv) The Universal Transverse Mercator or any other projection recommended by the National Mapping Agency shall be used as the primary map projection system for NLIMS 
+(v) The linear mapping unit for NLIMS shall be in metres. 
+(vi) The area attribute shall be given in accordance with the Survey Act. 
+(vii) A phased-approach shall be adopted in the conversion of coordinate systems in the areas whose surveys are not based on the recommended system. 
+3619 
+(viii) The National Mapping Agency shall put in place a scheme/mechanism for determining the positional accuracy of the existing land parcels data with respect to general boundary surveys. 
+5.3 Quality and Documentation of Land Information 
+1. The cadastral database shall accommodate different levels of accuracy. 
+2. The National Mapping Agency shall specify standards and specifications for geospatial data for different regions. 
+3. Multiplicity of data and varying accuracies 
+(i) In line with the Land Registration Act,2012 Section 15, the NLC and the National Mapping Agency shall develop a parcel numbering system and harmonise the production of cadastral maps in support of land registration including migration of the existing parcel numbering system. 
+(ii) Conflicting land information shall be resolved by the responsible institution. 
+(iii) Institutions that generate land information have the duty of ensuring that data shared through NLIMS has complete metadata. 
+6. System Security, Availability and Accessibility 
+NLC in consultation with the Regulatory Committee to provide guidelines for access and sharing of NLIMS land information. The composition of the Regulatory Committee shall be prescribed by land information law. 
+6.1 System Security and Accessibility 
+1. NLIMS shall accord users access to land information with a well-defined hierarchy of access rights. 
+2. Access to the system shall be by a registered/authenticated user(s). 
+3. NLC and data providers at all levels shall guarantee the security and confidentiality of the system according to standards and guidelines. 
+4.' A comprehensive audit trail of all processes shall be maintained by the system. 
+5. Producers/ custodians of land information shall ensure that all authorized users are able to have at a minimum, read only access to this information. 
+6. Mal-intentioned access, sabotage and/or unauthorized access into the system and the land information shall attract commensurate penalties as prescribed in law. 
+7. Information shall be encrypted at all levels during transmission. 
+8. Requirement for User Registration 
+(i) National ID/ Passport. 
+(ii) Internal users shall provide additional relevant employee information. 
+(iii) Access to the system shall be enhanced by employing authentication technologies e.g. biometrics. 
+(iv) The Regulatory Committee to review any other means of user registration. 
+6.2 System Availability 
+1. . The system shall use available prevailing technologies to ensure and assure nationwide coverage. 
+2. NLC and relevant stakeholders shall form a mechanism for migrating paper-based system to a digital-based platform. 
+3. Previous hard copy/ paper-based records shall be archived and secured. 
+6.3 Information Dissemination 
+1. Land information and services shall be available from the NLIMS. 
+2. The system shall disseminate land information using diverse channels. 
+3. Land information shall be made available to the lowest administrative level. 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
+# In[1]:
 
 
 # -----------------------------------------------------------
@@ -12,7 +12,7 @@
 # -----------------------------------------------------------
 
 
-# In[6]:
+# In[2]:
 
 
 # for others to use this script, it will help to change this variable to
@@ -22,6 +22,7 @@ IMPORTSCRIPTSDIR = ROUTETOROOTDIR + "util/py_files"
 EXPORTDATADIR1 = ROUTETOROOTDIR + 'B_text_preproessing/csv_outputs/'
 UTILDIR = ROUTETOROOTDIR + 'util'
 JSONSDIR = ROUTETOROOTDIR + 'A_pdf_to_text/jsons_ke_gazettes/'
+TEXTDIR = ROUTETOROOTDIR + 'A_pdf_to_text/all_txt_files/'
 import os
 import json 
 import matplotlib.pyplot as plt
@@ -29,8 +30,11 @@ import random
 import numpy as np
 from sklearn.cluster import KMeans
 
+os.chdir(IMPORTSCRIPTSDIR)
+import setup
 
-# In[ ]:
+
+# In[3]:
 
 
 def readJsonIntoDict(filepath, filename, pageNum = 'all'):
@@ -100,7 +104,7 @@ def drawBoundingBoxes(page_lines, color = 'b'):
         plotLineBetweenTwoPoints(p1,p4, curCol)
 
 
-# In[ ]:
+# In[4]:
 
 
 def getPageNumHeaderAndDate(topLeftXs, topLeftYs, page_lines):
@@ -147,7 +151,7 @@ def pageReadingPreAnalysis(page_lines):
     return(numBoxes, topLeftXs, topLeftYs, boundingBoxes, textArr)
 
 
-# In[ ]:
+# In[5]:
 
 
 def getNumCols(page_lines, numTrials = 4):
@@ -185,7 +189,7 @@ def getNumCols(page_lines, numTrials = 4):
 
 # Right now we are hopeless on seven-columned data entries. 
 
-# In[ ]:
+# In[6]:
 
 
 def readIntoCsvLinesFormat(page_lines, numCols):
@@ -399,7 +403,7 @@ def readTitlePage(page_lines):
     return getText(jaggedLinesArray, textArr, topLeftXs)
 
 
-# In[67]:
+# In[9]:
 
 
 def readTablePage(page_lines):
@@ -418,13 +422,13 @@ def readTablePage(page_lines):
     return getText(jaggedLinesArray, textArr, topLeftXs, sep = ',')
 
 
-# In[69]:
+# In[ ]:
 
 
 
 
 
-# In[70]:
+# In[10]:
 
 
 def convertNoToNumbers(text):
@@ -435,7 +439,7 @@ def convertNoToNumbers(text):
     return text
 
 
-# In[71]:
+# In[11]:
 
 
 def getRightBorders(page_lines):
@@ -457,7 +461,7 @@ def getRightBorders(page_lines):
     return rightBorders
 
 
-# In[125]:
+# In[12]:
 
 
 def midParagraph(topRightXs, midPage = 3.95, rightEdge = 7.45):
@@ -479,7 +483,7 @@ def midParagraph(topRightXs, midPage = 3.95, rightEdge = 7.45):
 #midParagraph(test)
 
 
-# In[126]:
+# In[13]:
 
 
 def read2ColPagePreserveParagraphs(page_lines, keepPageHeader = False):
@@ -511,7 +515,7 @@ def read2ColPagePreserveParagraphs(page_lines, keepPageHeader = False):
     return getText(jaggedLinesArray, textArr, topLeftXs, noNewLineLines = midParagraphNoNewLines)
 
 
-# In[139]:
+# In[14]:
 
 
 def findMiddleOfPage(topLeftXs, topRightXs):
@@ -593,7 +597,7 @@ def numIntersecting(topLeftXs, topRightXs, xCoord):
     return sum(np.logical_and(topLeftXs <= xCoord, topRightXs >= xCoord))
 
 
-# In[12]:
+# In[15]:
 
 
 def readPage(jsonDict, pageNum, keepPageHeader = False, includeTables = False, cleaningFns = []):
@@ -624,13 +628,48 @@ def readPage(jsonDict, pageNum, keepPageHeader = False, includeTables = False, c
             else:
                 return ''
         else:
-            text = read2ColPagePreserveParagraphs(page_lines)
+            text = read2ColPagePreserveParagraphs(page_lines, keepPageHeader)
     for fn in cleaningFns:
         text = fn(text)
     return text
 
 
-# In[4]:
+# In[18]:
+
+
+def convertAllJsonsToTxt(inputDir = JSONSDIR, outputDir = TEXTDIR, includeTables = False):
+    """Convert every page from every json in inputDir into a txt file in outputDir.
+    
+    args:
+    inputDir: directory to read jsons in from.
+    outputDir: directory to write txts to.
+    includeTables: if True, include the transcription of pages which look like tables (>2 columns).
+         Otherwise, write an empty txt for table pages."""
+    
+    os.chdir(inputDir)
+    jsonNames = get_ipython().getoutput('ls')
+    for jsonName in jsonNames:
+        jsonDict = readJsonIntoDict(inputDir, jsonName)
+        numPages = len(jsonDict)
+        for pageNum in range(0, numPages):
+            pageText = readPage(jsonDict, pageNum, keepPageHeader = True, includeTables = includeTables)
+            filename = jsonName + "-page-" + str(pageNum + 1)
+            setup.writeTxt(filename, pageText.encode('utf-8'), ROUTETOROOTDIR)            
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
 
 
 

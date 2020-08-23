@@ -25,12 +25,12 @@ CSVTRAINDIR = ROUTETOROOTDIR + 'B_text_preprocessing/csv_outputs_train/'
 CSVTESTDIR = ROUTETOROOTDIR + 'B_text_preprocessing/csv_outputs_test/'
 import os
 import re
+import numpy as np
             
-os.chdir(IMPORTSCRIPTSDIR)
-import setup
 os.chdir(IMPORTSCRIPTSDIR)
 import trainingDataForSpaCy
 import C_exportNERAPI
+import setup
 
 
 # It will be helpful to describe the format that spaCy outputs entity data in for a single segment. Below is an example:
@@ -309,6 +309,14 @@ def createLandObj(sizes, locs, LRs, districts):
         district = None
     return landNode(size, loc, LRlist, district)
 
+def isFloat(obj):
+    """Given an object, return True if it is a Python float or a numpy float (64).
+    The reason this method exists is that when Pandas reads a csv it assumes that an
+    empty cell is a float with value NaN, instead of an empty string. We want to catch 
+    this by finding floats when we are looking for a string."""
+    
+    return type(obj) == float or type(obj) == np.float64
+
 def createEdgeObjs(deedStatus, ownershipStatus, series):
     """Given strings and nodes to represent each characteristic, create an edge object.
     
@@ -323,9 +331,9 @@ def createEdgeObjs(deedStatus, ownershipStatus, series):
     ownershipStatus = getFirstEntryIfAvailable(ownershipStatus)
     date = series['date']
     MR = series['MR number']
-    if type(date) == float:
+    if isFloat(date):
         date = None
-    if type(MR) == float:
+    if isFloat(MR):
         MR = None
     
     return landOrgEdge(deedStatus, ownershipStatus, date, MR)
@@ -341,9 +349,9 @@ def createSignatorObj(series):
     loc = series['signator location']
     role = series['signator role']
     
-    if (type(name) == float): name = None 
-    if (type(loc) == float): loc = None 
-    if (type(role) == float): role = None 
+    if isFloat(name): name = None 
+    if isFloat(loc): loc = None 
+    if isFloat(role): role = None 
     
     return signator(name, loc, role)
 

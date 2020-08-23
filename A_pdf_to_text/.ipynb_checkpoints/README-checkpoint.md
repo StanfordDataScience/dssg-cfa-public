@@ -20,6 +20,14 @@ Code is split through several files, each of which has a more detailed descripti
 
 * All that is needed to understand the ordering of text is a bit of geometric sense and a very basic understanding of how the k-means algorithm works (for determining how many columns there are).
 
+## Assumptions
+
+Thea do you have any?
+
 ## FAQ
 
 * *Why does the orderingText.readPage() function return an empty string for an entire page, and not infrequently?* readPage is set by default to not even try to read pages that it detects has having more than two columns. It will just return an emtpy string every time this happens. This is done out of caution, and a wish to avoid adding bad or poorly read text at the expense of capturing every last scrap of gazette. This can easily be avoided by setting the readTables flag to be true, but we caution the reader that reading tables is not something readAPI does well.
+
+## Future Directions
+
+* *Incorporating Form Recognizer API* (Thea you know this better than I do)

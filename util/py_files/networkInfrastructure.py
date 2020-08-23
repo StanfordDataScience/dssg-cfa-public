@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[2]:
 
 
 # -----------------------------------------------------------
@@ -54,7 +54,7 @@ import networkClasses
 # 
 # When an 'owner' is reference, this refers to a personNode or an orgNode object.
 
-# In[ ]:
+# In[4]:
 
 
 GLOBAL_UID = 0
@@ -117,7 +117,7 @@ def printDictWithValueAsList(dicto):
             print(obj)
 
 
-# In[ ]:
+# In[5]:
 
 
 def incorporateGazette(gazetteNum):
@@ -348,7 +348,7 @@ def addToDistrictsDict(district, fullKey):
 #incorporateGazette(0)
 
 
-# In[ ]:
+# In[6]:
 
 
 PERSON_SIZE_CONSTANT = 1
@@ -439,10 +439,10 @@ def saveState(fileaddendum = ''):
     createNodesCsv(fileaddendum)
 
 
-# In[ ]:
+# In[7]:
 
 
-def saveGraph(sizeSample, districtEdges = True, addressEdges = True):
+def saveGraph(gazetteSelection, districtEdges = True, addressEdges = True):
     """Create a graph using random gazettes and save the output to csvs.
     
     args:
@@ -451,9 +451,8 @@ def saveGraph(sizeSample, districtEdges = True, addressEdges = True):
     addressEdges: if true, draw edges between entities with the same address."""
     
     resetGlobalVals()
+    sizeSample = len(gazetteSelection)
     fileaddendum = "_" + str(sizeSample) + "_gazettes_included_"
-    totalNumGazettes = len(trainingDataForSpaCy.listOfCsvsNew)
-    gazetteSelection = random.sample(range(0,totalNumGazettes), sizeSample)
     for i in gazetteSelection:
         incorporateGazette(i)
     if districtEdges:
@@ -468,6 +467,12 @@ def saveGraph(sizeSample, districtEdges = True, addressEdges = True):
         fileaddendum += "no_address_edges_drawn_"
     saveState(fileaddendum)
     
+
+
+# In[ ]:
+
+
+
 
 
 # In[ ]:

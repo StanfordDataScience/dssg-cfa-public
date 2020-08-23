@@ -1,0 +1,58 @@
+3620 THE KENYA GAZETTE 2nd September, 2016 
+6.4 System Integration 
+1. Software components shall be developed according to current software standards to support system integration. 
+2. NLC to co-ordinate the integration of land information systems at all levels including linkage to the Kenya National Spatial Data Infrastructure (KNSDI). 
+3. Institutions developing the system shall be authenticated by National Public Key Infrastructure (NPKI). 
+4. The Regulatory Committee shall define data interchange formats and protocols. 
+7. Implementation and Pricing of Land Information 
+7.1 Assessment of Readiness 
+A needs analysis should be carried out to provide a systematic report that includes but not limited to: 
+1. The policy, legal and institutional context for the LIMS 
+2. The number of land parcels/ properties and the scope of any LIMS reform initiative 
+3. The status of existing land records 
+4. The land tenures in the jurisdictional areas 
+5. The current LIMS processes with proposals from business process reengineering 
+6. Key land sector issues and other initiatives by governments, development partners and other stakeholders in the land sector 
+7.2 Implementation Strategy 
+1. Participation strategy: public participation and consideration of socio-political factors and representation. This can be achieved through barazas and thematic workshops. 
+2. Partnership strategy: during implementation, key stakeholders should be involved e.g. through Memorandum of Understanding, Public-Private Partnerships amongst others. 
+3. Devolved strategy: devolution in land governance to the lowest administrative unit, utilization of traditional institutions and use of Information centres. 
+4. Procurement strategy: purchase of equipment and services, leasing, resource sharing and any other mode of procurement according to relevant legislations. 
+5. Quality control and assurance: ensuring that land information and services are delivered according to internationally accepted Quality Management Systems (QMS) standards and practices. 
+6. Research and development strategy: continuous improvement of NLIMS shall be informed through research and technological changes in collaboration with universities, research institutions and land sector experts. 
+7. Execution strategy: NLIMS will be implemented on priority basis which will be agreed upon based on quick wins, existing capacity and funding. 
+8. Capacity strategy: NLIMS implementation team should ensure sufficient capacity to support the system. 
+9. Monitoring and evaluation strategy: monitoring and evaluation shall be carried out through national and international standards and guidelines. 
+10. Audit and risk management strategy: There shall be an internal and external system audit done twice a year. 
+7.3 Project Financing 
+1. The National and County Governments are the main sources of funding. 
+2. Strategic partners to share capacity/ resources in the development of NLIMS. 
+3. The funding shall be supplemented by revenue from appropriation-in-aid from NLIMS services. 
+A determined percentage (by the Regulatory Committee) of A the revenue generated from the fees shall principally be used for system sustainability and service enhancement. 
+7.4 Pricing of Land Information Services 
+1. Land information services provided from the system shall be categorized as either free or charged. These services and 2nd September, 2016 
+products will be provided in a publicly accessible catalogue with the prevailing applicable fees. 
+2 . Fees for land information services will be prescribed and revised from time to time by the Regulatory Committee. 
+3. Development of land information law to guide the sharing, access and pricing of land information. 
+8. Transitional Provisions 
+Until such time that a land information law is enacted, the National Land Commission shall be legally mandated with: 
+1. Establishment of the Regulatory Committee to enforce provisions. 
+2. Enforcement of provisions in this standards and guidelines. 3 . Development of rules, regulations and procedures to guide the sharing, access management and pricing of land information. 
+4. Any other function that may be deemed necessary before enactment of the land information law. 
+Glossary of Terms 
+Appropriations-in-Aid (AIA): monies received by government departments, in the course of their business, such as fees charges for services. The monies are retained by department to meet the expenditure instead of being paid directly into the Exchequer. 
+Business model: the plan implemented by participating institutions to generate revenue from its operations. 
+Cadastre: a comprehensive register of the real estate or real property normally in form of a map and a land register within a jurisdiction. 
+Communities: clearly defined groups of users of land identified on the basis of ethnicity, culture or similar community of interest under Article 63(1) of the Constitution, which holds a set of clearly defined rights and obligations over land and land-based resources. 
+Coordinate System: a system for specifying location of points on a planar or spherical surface and normally expressed in a pair or triplet of numerical coordinates. 
+Data Centre: a centralized and/or a restricted access area containing automated systems for the storage, management and dissemination of data and information. 
+Datum: a coordinate system, and a set of reference points, used to locate places on the Earth. 
+Encryption: the conversion of data into a form that cannot be easily understood by unauthorized people to enhance the security of the information. 
+External System Audit: is an independent and objective examination of the management controls within the NLIMS by an independent external audit team with the aim of improving the system and processes where necessary. 
+Georeferencing: determining the specific location of an object using a defined co-ordinate system on, above or below the earth surface. 
+Geoinformation: the information about geographic phenomena which is directly or indirectly located on the earth. 
+Guideline: recommended technical and advisory information with the aim of streamlining particular processes according to a set routine or sound practice. 
+Information security and access: a practice of defending land information from unauthorized access, use, disclosure, disruption, modification, perusal, inspection, recording or destruction regardless of the form the land information may take. e.g ., electronic or paper based. 
+Information sharing: the exchange of data between various organizations, people and technologies. 
+Institution: an establishment, foundation, or organization devoted to the promotion of a particular cause or program, especially one of a public, educational, or charitable nature. 
+Internal System Audit: is an independent and objective examination of the management controls within the NLIMS by an internal audit team with the aim of improving the system and processes where necessary. Interoperability: ability of systems (LIS) to have seamless integration Kenya National Spatial Data Infrastructure (KNSDI): An infrastructure that supports discovery of land information, data 

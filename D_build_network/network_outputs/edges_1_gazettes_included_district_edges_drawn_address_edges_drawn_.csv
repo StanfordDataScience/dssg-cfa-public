@@ -1,1122 +1,1827 @@
 key1,key2,Weight,Description,signator key,signator description
-"('Abdalla Mohamed Abdalla', 0)","(0, 0)",1,"Edge between person or organization and land.
+"('Mahfudh Ahmed Jeizan', 0)","(0, 0)",1,"Edge between person or organization and land.
 Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508092.
-","('J. G. WANJOHI', 0)","Signator object. 
-Name: J. G. WANJOHI
-Location: ['Mombasa', ' Registrar of Titles, Mombasa ']
-Role: [' Registrar of Titles']
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567528.
+","('G. M. MUYANGA', 0)","Signator object. 
+Name: G. M. MUYANGA
+Location: ['Nairobi']
+Role: [' Registrar of Titles', ' Land Registrar']
 "
-"('Mombasa/Block XVI/598', 0)","(0, 0)",1,"Edge between person or organization and land.
+"('Mohammed Mahfudh Jeizan', 0)","(0, 0)",1,"Edge between person or organization and land.
 Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508092.
-","('J. G. WANJOHI', 0)","Signator object. 
-Name: J. G. WANJOHI
-Location: ['Mombasa', ' Registrar of Titles, Mombasa ']
-Role: [' Registrar of Titles']
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567528.
+","('G. M. MUYANGA', 0)","Signator object. 
+Name: G. M. MUYANGA
+Location: ['Nairobi']
+Role: [' Registrar of Titles', ' Land Registrar']
 "
-"('Plot', 0)","(0, 0)",1,"Edge between person or organization and land.
+"('Hussein Mahfudh Jeizan', 0)","(0, 0)",1,"Edge between person or organization and land.
 Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508092.
-","('J. G. WANJOHI', 0)","Signator object. 
-Name: J. G. WANJOHI
-Location: ['Mombasa', ' Registrar of Titles, Mombasa ']
-Role: [' Registrar of Titles']
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567528.
+","('G. M. MUYANGA', 0)","Signator object. 
+Name: G. M. MUYANGA
+Location: ['Nairobi']
+Role: [' Registrar of Titles', ' Land Registrar']
 "
-"('C.R. 53765', 0)","(4, 0)",1,"Edge between person or organization and land.
+"('David Njoroge Waruru', 0)","(4, 0)",1,"Edge between person or organization and land.
 Deed Status: ['lost'].
 Ownership Status: proprietor lessee.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017485.
-",None,None
-"('Ist December', 0)","(4, 0)",1,"Edge between person or organization and land.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567427.
+","('B. F. ATIENO', 0)","Signator object. 
+Name: B. F. ATIENO
+Location: ['Nairobi']
+Role: [' Registrar of Titles']
+"
+"('Paul Muhato', 0)","(6, 0)",1,"Edge between person or organization and land.
 Deed Status: ['lost'].
 Ownership Status: proprietor lessee.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017485.
-",None,None
-"('Fatma Eric Edward Barallon', 0)","(4, 0)",1,"Edge between person or organization and land.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567799.
+","('B. F. ATIENO', 0)","Signator object. 
+Name: B. F. ATIENO
+Location: ['Nairobi']
+Role: [' Registrar of Titles']
+"
+"('Maisonette', 0)","(6, 0)",1,"Edge between person or organization and land.
 Deed Status: ['lost'].
 Ownership Status: proprietor lessee.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017485.
-",None,None
-"('C.R. 19204/1', 0)","(8, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 28th June, 2019.
-MR Number: MR/6338422.
-","('J. G. WANJOHI', 0)","Signator object. 
-Name: J. G. WANJOHI
-Location: ['Mombasa', ' Registrar of Titles, Mombasa ']
-Role: [' Registrar of Titles']
-"
-"('Elisabeth Wirth', 0)","(8, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 28th June, 2019.
-MR Number: MR/6338422.
-","('J. G. WANJOHI', 0)","Signator object. 
-Name: J. G. WANJOHI
-Location: ['Mombasa', ' Registrar of Titles, Mombasa ']
-Role: [' Registrar of Titles']
-"
-"('Wilson Mwinyi Abdalla', 0)","(8, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 28th June, 2019.
-MR Number: MR/6338422.
-","('J. G. WANJOHI', 0)","Signator object. 
-Name: J. G. WANJOHI
-Location: ['Mombasa', ' Registrar of Titles, Mombasa ']
-Role: [' Registrar of Titles']
-"
-"('Plot', 0)","(8, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 28th June, 2019.
-MR Number: MR/6338422.
-","('J. G. WANJOHI', 0)","Signator object. 
-Name: J. G. WANJOHI
-Location: ['Mombasa', ' Registrar of Titles, Mombasa ']
-Role: [' Registrar of Titles']
-"
-"('Adham Mohamed Basty', 0)","(13, 0)",1,"Edge between person or organization and land.
-Date of Announcement: 28th June. 2019.
-MR Number: MR/6508236.
-",None,None
-"('557/1V/MN', 0)","(13, 0)",1,"Edge between person or organization and land.
-Date of Announcement: 28th June. 2019.
-MR Number: MR/6508236.
-",None,None
-"('Simon Willis Ouma', 0)","(16, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 28th June, 2019.
-MR Number: MR/6338422.
-","('J. G. WANJOHI', 0)","Signator object. 
-Name: J. G. WANJOHI
-Location: ['Mombasa', ' Registrar of Titles, Mombasa ']
-Role: [' Registrar of Titles']
-"
-"('Plot', 0)","(16, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 28th June, 2019.
-MR Number: MR/6338422.
-","('J. G. WANJOHI', 0)","Signator object. 
-Name: J. G. WANJOHI
-Location: ['Mombasa', ' Registrar of Titles, Mombasa ']
-Role: [' Registrar of Titles']
-"
-"('Geoffrey K. Koros', 0)","(19, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508162.
-","('J. W. KAMUYU', 0)","Signator object. 
-Name: J. W. KAMUYU
-Location: Kisumu East/West Districts
-Role:  Land Registrar
-"
-"('Land Registrar', 0)","(19, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508162.
-","('J. W. KAMUYU', 0)","Signator object. 
-Name: J. W. KAMUYU
-Location: Kisumu East/West Districts
-Role:  Land Registrar
-"
-"('J. W. KAMUYU', 0)","(19, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508162.
-","('J. W. KAMUYU', 0)","Signator object. 
-Name: J. W. KAMUYU
-Location: Kisumu East/West Districts
-Role:  Land Registrar
-"
-"('Antony Mwendia Matheri', 0)","(19, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508162.
-","('J. W. KAMUYU', 0)","Signator object. 
-Name: J. W. KAMUYU
-Location: Kisumu East/West Districts
-Role:  Land Registrar
-"
-"('THE LAND REGISTRATION ACT', 0)","(19, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508162.
-","('J. W. KAMUYU', 0)","Signator object. 
-Name: J. W. KAMUYU
-Location: Kisumu East/West Districts
-Role:  Land Registrar
-"
-"('Judith Amondi Oketch', 0)","(25, 0)",1,"Edge between person or organization and land.
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July . 2019.
-MR Number: MR/6508323.
-",None,None
-"('Edward Aroka Kargungu Brevi', 0)","(27, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508323.
-",None,None
-"('Appollo Obondo Oloo', 0)","(29, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508323.
-",None,None
-"('Land Registrar', 0)","(29, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508323.
-",None,None
-"('G. O. NYANGWESO', 0)","(29, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508323.
-",None,None
-"('Tom Vitalis Otieno', 0)","(29, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508323.
-",None,None
-"('THE LAND REGISTRATION ACT', 0)","(29, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508323.
-",None,None
-"('Kisumu East/West Districts', 0)","(29, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508323.
-",None,None
-"('Edward Aroka Kargungu Brevi', 0)","(36, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508323.
-",None,None
-"('Edward Aroka Kargungu Brevi', 0)","(38, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508323.
-",None,None
-"('Patricia Akinyi Oduor', 0)","(40, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508323.
-",None,None
-"('George Oduho Oliech', 0)","(42, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508323.
-",None,None
-"('Stephen Jaramba Kariuki', 0)","(44, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July. 2019.
-MR Number: MR/6508220.
-",None,None
-"('Mbugua Mungai Njuguna', 0)","(46, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508128.
-",None,None
-"('George Gathua Waigi', 0)","(48, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508186.
-",None,None
-"('Lilly Nyakowa Shiroya', 0)","(50, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508243.
-",None,None
-"('Okwara Zacharia Imayi', 0)","(52, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508182.
-",None,None
-"('Mary Ngoiri', 0)","(54, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508336.
-",None,None
-"('Ruiru', 0)","(56, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508218.
-","('R. M. MBUBA', 0)","Signator object. 
-Name: R. M. MBUBA
-Location: ['Ruiru District', 'Thika District']
-Role: [' Land Registrar']
-"
-"('Faith Wangechi Gitari', 0)","(56, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508218.
-","('R. M. MBUBA', 0)","Signator object. 
-Name: R. M. MBUBA
-Location: ['Ruiru District', 'Thika District']
-Role: [' Land Registrar']
-"
-"('Ndungu Njoroge', 0)","(59, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietors in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017026.
-","('A. M. MWAKIO', 0)","Signator object. 
-Name: A. M. MWAKIO
-Location: Thika District
-Role:  Land Registrar
-"
-"('Peter Mwaura Njoroge', 0)","(59, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietors in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017026.
-","('A. M. MWAKIO', 0)","Signator object. 
-Name: A. M. MWAKIO
-Location: Thika District
-Role:  Land Registrar
-"
-"('John Mwathi Mwangi', 0)","(62, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017493.
-","('R. M. MBUBA', 0)","Signator object. 
-Name: R. M. MBUBA
-Location: ['Ruiru District', 'Thika District']
-Role: [' Land Registrar']
-"
-"('Joseph Ndiritu Gitonye', 0)","(64, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508234.
-","('S. M. MWANZAWA', 0)","Signator object. 
-Name: S. M. MWANZAWA
-Location: ['Nyeri District']
-Role: [' Land Registrar', ' and Registrar']
-"
-"('Simon Kuiyaki Karungaru', 0)","(66, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July , 2019.
-MR Number: MR/6508212.
-","('S. M. MWANZAWA', 0)","Signator object. 
-Name: S. M. MWANZAWA
-Location: ['Nyeri District']
-Role: [' Land Registrar', ' and Registrar']
-"
-"('Agnes Wanjiru Kiambuthi', 0)","(68, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508153.
-","('A. B. GISEMBA', 0)","Signator object. 
-Name: A. B. GISEMBA
-Location: Murang'a District
-Role:  Land Registrar
-"
-"('Ebabaras Munyi Ngari', 0)","(70, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508052.
-",None,None
-"('Solomon Mwangi Githinji', 0)","(72, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017141.
-","('I. N. NJIRU', 0)","Signator object. 
-Name: I. N. NJIRU
-Location: Mbeere District
-Role:  Land Registrar
-"
-"('Ernest Mugo Gatigwa', 0)","(74, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017126.
-","('J. M. GITARI', 0)","Signator object. 
-Name: J. M. GITARI
-Location: ['Embu District']
-Role: [' Land Registrar']
-"
-"('Kellen Muthoni Ndwiga', 0)","(76, 0)",1,"Edge between person or organization and land.
-Ownership Status: proprietors in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017130.
-","('J. M. GITARI', 0)","Signator object. 
-Name: J. M. GITARI
-Location: ['Embu District']
-Role: [' Land Registrar']
-"
-"('Rael Gikuu', 0)","(76, 0)",1,"Edge between person or organization and land.
-Ownership Status: proprietors in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017130.
-","('J. M. GITARI', 0)","Signator object. 
-Name: J. M. GITARI
-Location: ['Embu District']
-Role: [' Land Registrar']
-"
-"('Zipporah Ruguru Gitonga', 0)","(79, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017132.
-",None,None
-"('Dickson Kimandi Mwirabua', 0)","(81, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508188.
-","('M. K. NJUE', 0)","Signator object. 
-Name: M. K. NJUE
-Location: ['Meru South/MaaralTharaka Districts', 'Meru South/Maara/Tharaka Districts']
-Role: [' Land Registrar', ' .Land Registrar']
-"
-"('Nthiiri Eustace', 0)","(83, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508207.
-","('M. K. NJUE', 0)","Signator object. 
-Name: M. K. NJUE
-Location: ['Meru South/MaaralTharaka Districts', 'Meru South/Maara/Tharaka Districts']
-Role: [' Land Registrar', ' .Land Registrar']
-"
-"('Elizaphan J. Nthiiri Reri', 0)","(85, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508020.
-","('M. K. NJUE', 0)","Signator object. 
-Name: M. K. NJUE
-Location: ['Meru South/MaaralTharaka Districts', 'Meru South/Maara/Tharaka Districts']
-Role: [' Land Registrar', ' .Land Registrar']
-"
-"(""M'Ikingi Nganya"", 0)","(87, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508020.
-","('M. K. NJUE', 0)","Signator object. 
-Name: M. K. NJUE
-Location: ['Meru South/MaaralTharaka Districts', 'Meru South/Maara/Tharaka Districts']
-Role: [' Land Registrar', ' .Land Registrar']
-"
-"('Augustine Kooro Matu', 0)","(89, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508184.
-","('P. M. NDUNGU', 0)","Signator object. 
-Name: P. M. NDUNGU
-Location: Laikipia District
-Role:  Land Registrar
-"
-"('Francis Muriithi Karicho', 0)","(91, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508141.
-","('C. M. AYIENDA', 0)","Signator object. 
-Name: C. M. AYIENDA
-Location: ['Nyandarua/Samburu Districts']
-Role: [' Land Registrar', ' · Land Registrar']
-"
-"('Francis Kariuki Ndungu', 0)","(93, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July , 2019.
-MR Number: MR/6508073.
-",None,None
-"('Nyandarua', 0)","(93, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July , 2019.
-MR Number: MR/6508073.
-",None,None
-"('George Kirubi Njoroge', 0)","(96, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508105.
-","('C. M. AYIENDA', 0)","Signator object. 
-Name: C. M. AYIENDA
-Location: ['Nyandarua/Samburu Districts']
-Role: [' Land Registrar', ' · Land Registrar']
-"
-"('Ntetea ole Lamaita', 0)","(98, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508206.
-","('G. M. MALUNDU', 0)","Signator object. 
-Name: G. M. MALUNDU
-Location: Kajiado North District
-Role:  Land Registrar
-"
-"('Oloitokitosh-Kitengela/54190', 0)","(100, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508325.
-",None,None
-"('Kajiado', 0)","(100, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508325.
-",None,None
-"('Finnlemm Sacco Society Limited', 0)","(100, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508325.
-",None,None
-"('Stima Investment Co-operative Society Limited', 0)","(104, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508037.
-",None,None
-"('Enoch Otuma Ntoyai', 0)","(106, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508023.
-","('P. K. TONUI', 0)","Signator object. 
-Name: P. K. TONUI
-Location: ['Kajiado District']
-Role: [' Land Registrar']
-"
-"('Midas Development Limited', 0)","(108, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017168.
-","('P. K. TONUI', 0)","Signator object. 
-Name: P. K. TONUI
-Location: ['Kajiado District']
-Role: [' Land Registrar']
-"
-"('Olokordo Nankoo Mosiany', 0)","(110, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017171.
-",None,None
-"('Samuel Gitau Kamau', 0)","(112, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508322.
-",None,None
-"('Margaret Wangui Wambura', 0)","(114, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508106.
-","('C. C. SANG', 0)","Signator object. 
-Name: C. C. SANG
-Location: Naivasha District
-Role:  Land Registrar
-"
-"('Muthoka Mutunga Kyalo', 0)","(116, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July , 2019.
-MR Number: MR/6508120.
-",None,None
-"('Eric Onyango Muga', 0)","(118, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508222.
-","('M. M. OSANO', 0)","Signator object. 
-Name: M. M. OSANO
-Location: ['Rachuonyo East/South/North Districts', 'BusialTeso Districts']
-Role: [' Land Registrar']
-"
-"('Joseph Karuwon', 0)","(120, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508078.
-",None,None
-"('Otieno Onyango Ogonda', 0)","(122, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508099.
-","('D. O. DULO', 0)","Signator object. 
-Name: D. O. DULO
-Location: UgenyalUgunja Districts
-Role:  Land Registrar
-"
-"('Tom Obuya Atik', 0)","(124, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508432.
-","('M. M. OSANO', 0)","Signator object. 
-Name: M. M. OSANO
-Location: ['Rachuonyo East/South/North Districts', 'BusialTeso Districts']
-Role: [' Land Registrar']
-"
-"('Samwel Ogweno Okoth', 0)","(126, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508432.
-",None,None
-"('Karen Anyango Owiti', 0)","(128, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508432.
-","('M. M. OSANO', 0)","Signator object. 
-Name: M. M. OSANO
-Location: ['Rachuonyo East/South/North Districts', 'BusialTeso Districts']
-Role: [' Land Registrar']
-"
-"('Otaro Oyayo', 0)","(130, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017176.
-",None,None
-"(""Nyang'au Nyangera"", 0)","(132, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July. 2019.
-MR Number: MR/6508246.
-",None,None
-"('John Ragira Mogaka', 0)","(134, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508309.
-",None,None
-"('Annah Nyabonyi Nyangwara', 0)","(136, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508065.
-",None,None
-"('Elias Nyantika Omosiere', 0)","(138, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508152.
-","('S. N. MOKAYA', 0)","Signator object. 
-Name: S. N. MOKAYA
-Location: Kisii District
-Role:  Land Registrar
-"
-"('Margaret Nthenya Mwangangi', 0)","(140, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508223.
-","('A. MUTUA', 0)","Signator object. 
-Name: A. MUTUA
-Location: Lamu District
-Role:  Land Registrar
-"
-"('Dama Sefu Nyale', 0)","(142, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July , 2019.
-MR Number: MR/6017101.
-",None,None
-"('Ali Mwashaka Mrumwengu', 0)","(144, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July , 2019.
-MR Number: MR/6508244.
-","('D. J. SAFARI', 0)","Signator object. 
-Name: D. J. SAFARI
-Location: Kwale District
-Role:  Land Registrar
-"
-"('Kuguru Food Complex Limited', 0)","(146, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508233.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567799.
 ","('B. F. ATIENO', 0)","Signator object. 
 Name: B. F. ATIENO
 Location: ['Nairobi']
 Role: [' Registrar of Titles']
 "
-"('Dickson Kinao Kahoro', 0)","(148, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508089.
-","('B. F. ATIENO', 0)","Signator object. 
-Name: B. F. ATIENO
-Location: ['Nairobi']
-Role: [' Registrar of Titles']
-"
-"('Joyce Wangui Kinaro', 0)","(148, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508089.
-","('B. F. ATIENO', 0)","Signator object. 
-Name: B. F. ATIENO
-Location: ['Nairobi']
-Role: [' Registrar of Titles']
-"
-"('Registrar', 0)","(148, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508089.
-","('B. F. ATIENO', 0)","Signator object. 
-Name: B. F. ATIENO
-Location: ['Nairobi']
-Role: [' Registrar of Titles']
-"
-"('B. F. ATIENO', 0)","(148, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508089.
-","('B. F. ATIENO', 0)","Signator object. 
-Name: B. F. ATIENO
-Location: ['Nairobi']
-Role: [' Registrar of Titles']
-"
-"('Mohamedsalah Mohamud Osman', 0)","(148, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508089.
-","('B. F. ATIENO', 0)","Signator object. 
-Name: B. F. ATIENO
-Location: ['Nairobi']
-Role: [' Registrar of Titles']
-"
-"('THE LAND REGISTRATION ACT', 0)","(148, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost', 'lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508089.
-","('B. F. ATIENO', 0)","Signator object. 
-Name: B. F. ATIENO
-Location: ['Nairobi']
-Role: [' Registrar of Titles']
-"
-"('Peter Gatonye Kagimbi', 0)","(155, 0)",1,"Edge between person or organization and land.
+"('The Registered Trustees of Sheikh Zayed bin Sultan Al Nahyan', 0)","(9, 0)",1,"Edge between person or organization and land.
 Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508041.
-","('M. J. BILLOW', 0)","Signator object. 
-Name: M. J. BILLOW
-Location: Nairobi
-Role:  Registrar of Titles
+Ownership Status: proprietor lessee.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567941.
+","('B. F. ATIENO', 0)","Signator object. 
+Name: B. F. ATIENO
+Location: ['Nairobi']
+Role: [' Registrar of Titles']
 "
-"('James Njuguna Gatonye', 0)","(155, 0)",1,"Edge between person or organization and land.
+"('Mary Wangari Kimani', 0)","(11, 0)",1,"Edge between person or organization and land.
 Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508041.
-","('M. J. BILLOW', 0)","Signator object. 
-Name: M. J. BILLOW
-Location: Nairobi
-Role:  Registrar of Titles
-"
-"('Samuel Kimani Mukundi', 0)","(158, 0)",1,"Edge between person or organization and land.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567546.
+",None,None
+"('Mary Wangari Kimani', 0)","(13, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567546.
+",None,None
+"('Wanjiku Wanyee', 0)","(15, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Date of Announcement: 29th September, 2017.
+MR Number: MR/3567629.
+",None,None
+"('Uasin Gishu', 0)","(17, 0)",1,"Edge between person or organization and land.
 Deed Status: ['lost'].
 Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508284.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567569.
 ",None,None
-"('Nakuru/Municipality Block 26/993', 0)","(158, 0)",1,"Edge between person or organization and land.
+"('Martin Kipkosgei Chepkiyeng', 0)","(17, 0)",1,"Edge between person or organization and land.
 Deed Status: ['lost'].
 Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508284.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567569.
 ",None,None
-"('Ibrahim Ali Omar', 0)","(161, 0)",1,"Edge between person or organization and land.
-Ownership Status: proprietors in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508088.
-",None,None
-"('Ahmed Ali Omar', 0)","(161, 0)",1,"Edge between person or organization and land.
-Ownership Status: proprietors in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508088.
-",None,None
-"('Raksha Mahendra Patel', 0)","(164, 0)",1,"Edge between person or organization and land.
-Ownership Status: proprietors in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508266.
-",None,None
-"('Mahendra Jashbhai Patel', 0)","(164, 0)",1,"Edge between person or organization and land.
-Ownership Status: proprietors in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508266.
-",None,None
-"('Bedi Investment', 0)","(167, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017138.
-","('H. N. KHAREMWA', 0)","Signator object. 
-Name: H. N. KHAREMWA
-Location: Nakuru
-Role:  Land Registrar
-"
-"('Benjamin Okungu Dovolosho (deceased)', 0)","(169, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6017143.
-","('T. L. INGONGA', 0)","Signator object. 
-Name: T. L. INGONGA
-Location: ['Vihiga District', 'Vihiga Districts', 'Luanda District']
-Role: [' Land Registrar']
-"
-"('Agola Ojenyi (deceased)', 0)","(171, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508177.
-","('T. L. INGONGA', 0)","Signator object. 
-Name: T. L. INGONGA
-Location: ['Vihiga District', 'Vihiga Districts', 'Luanda District']
-Role: [' Land Registrar']
-"
-"('Martin Omuyoyi Odundo', 0)","(173, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508201.
-","('T. L. INGONGA', 0)","Signator object. 
-Name: T. L. INGONGA
-Location: ['Vihiga District', 'Vihiga Districts', 'Luanda District']
-Role: [' Land Registrar']
-"
-"('Kisumu', 0)","(175, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508143.
-","('I. W. SABUNI', 0)","Signator object. 
-Name: I. W. SABUNI
-Location: NyandolMuhoroni/Nyakach Districts
-Role:  Land Registrar
-"
-"('Maritha Odero Ochanjo', 0)","(175, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508143.
-","('I. W. SABUNI', 0)","Signator object. 
-Name: I. W. SABUNI
-Location: NyandolMuhoroni/Nyakach Districts
-Role:  Land Registrar
-"
-"('Fred Gachago Mwai', 0)","(178, 0)",1,"Edge between person or organization and land.
+"('Uasin Gishu', 2)","(20, 0)",1,"Edge between person or organization and land.
 Deed Status: ['lost'].
 Ownership Status: proprietor in absolute ownership.
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508125.
-","('S. G. KINYUA', 0)","Signator object. 
-Name: S. G. KINYUA
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3593520.
+",None,None
+"('Rogers Kipngetich Kogo', 0)","(20, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3593520.
+",None,None
+"('Kinoiyo Company Limited', 0)","(23, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567543.
+",None,None
+"('Esther Kobilo Chelagat', 0)","(25, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567559.
+",None,None
+"('Loise Njeri Mugure', 0)","(27, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567559.
+",None,None
+"('Noah Kirua Samoei', 0)","(29, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567587.
+",None,None
+"('Monicah Wangechi Njoroge', 0)","(31, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567598.
+",None,None
+"('Julius Kiplagat Suter', 0)","(33, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3593503.
+",None,None
+"('Stephen Kuria Mwangi', 0)","(35, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567752.
+",None,None
+"('Nicholas Dere Omolo', 0)","(37, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567739.
+",None,None
+"('Maurice Obote Oloo', 0)","(39, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567739.
+",None,None
+"('Mary Akumu Ouko', 0)","(41, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567739.
+",None,None
+"('Jusfina Ooga Nyagol', 0)","(43, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567739.
+",None,None
+"('Pitalis Owuor Ojengu', 0)","(45, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567800.
+",None,None
+"('Josephat Ominde Dianga', 0)","(47, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567739.
+",None,None
+"('Otiende Okelo', 0)","(49, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567739.
+",None,None
+"('Lucy Wambeti Murage', 0)","(51, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567509.
+",None,None
+"('Festo Muleko', 0)","(53, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567866.
+",None,None
+"('Joseph Kakai Madira', 0)","(55, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567737.
+",None,None
+"('James Wamai Muiga', 0)","(57, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567568.
+",None,None
+"('Mary Muthoni Mwaura', 0)","(59, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567597.
+",None,None
+"('Rahab Gathoni Wachira', 0)","(61, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3593526.
+",None,None
+"('Mary Cheptarus Nyaga', 0)","(63, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3593528.
+",None,None
+"('Abraham Thiongo Kariuki', 0)","(65, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3593524.
+",None,None
+"('Mary Kamene Mutia', 0)","(67, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567736.
+",None,None
+"('Jimmy Maku Muema', 0)","(69, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567522.
+",None,None
+"('Edward Pariken Lilau', 0)","(71, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567828.
+",None,None
+"('Samuel Sonto Muyaa', 0)","(73, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567685.
+",None,None
+"('Fredrick Barasa Wanyonyi', 0)","(75, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567555.
+",None,None
+"('Lewis Rampei Pulei', 0)","(77, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567843.
+",None,None
+"('Anne Nyambura Kagondu', 0)","(79, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567519.
+",None,None
+"('Eunice Nkirote Kaburia', 0)","(81, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567539.
+",None,None
+"('Pius Nyambuga Mochoge', 0)","(83, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3593509.
+",None,None
+"('Kajiado/Loodariak/824', 0)","(83, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3593509.
+",None,None
+"('Henry Alexander Maina Mwai', 0)","(86, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567711.
+",None,None
+"('Henry Alexander Maina Mwai', 0)","(88, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567711.
+",None,None
+"('Raheli Obwavo Oboro', 0)","(90, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567754.
+",None,None
+"('Jamin Barasa Buchiba', 0)","(92, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567754.
+",None,None
+"('Simon Buyia Musumba', 0)","(94, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567754.
+",None,None
+"('Edwine Ongaya Luka', 0)","(96, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567755.
+",None,None
+"('Aniset Simala Kiberenge', 0)","(98, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567755.
+",None,None
+"('Charles Masinde Lufwalula', 0)","(100, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567599.
+",None,None
+"('Wanjiru Mbiu', 0)","(102, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567717.
+",None,None
+"('Margaret Nyambura Muhia', 0)","(104, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietors in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567515.
+",None,None
+"('Margaret Nyambura Waruru', 0)","(104, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietors in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567515.
+",None,None
+"('Jane Ngechi Kinuthia', 0)","(107, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietors in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567770.
+",None,None
+"('John Ndungu', 0)","(107, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietors in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567770.
+",None,None
+"('Peter Mbugua Wahinya', 0)","(107, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietors in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567770.
+",None,None
+"('Margaret Wambui Karoba', 0)","(111, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567769.
+",None,None
+"('Jane Mumbi Mithamo', 0)","(113, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567571.
+",None,None
+"('Simon Kamanu Ndegwa', 0)","(115, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567684.
+",None,None
+"('George Njoroge Kariuki', 0)","(117, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567683.
+",None,None
+"('Fredrick Munyaka Mwaniki', 0)","(119, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567526.
+",None,None
+"('Joseph Ngigi Kahiu', 0)","(121, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567505.
+",None,None
+"('Mary Muthoni Wanjihia Njoroge', 0)","(123, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietors in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567549.
+",None,None
+"('Simon Wanjihia Njoroge', 0)","(123, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietors in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567549.
+",None,None
+"('John Kiugu Gitau', 0)","(126, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567757.
+",None,None
+"('Esther Njeri Njenga', 0)","(128, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567831.
+",None,None
+"('Cares Catering and Supplies Limited', 0)","(128, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567831.
+",None,None
+"('Isaac Ndirangu Kiarii', 0)","(131, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567714.
+",None,None
+"('Michael Njuguna Karuru', 0)","(133, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567695.
+",None,None
+"('Josphat Kimani Gachugu', 0)","(135, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567691.
+",None,None
+"('Phylis Wanja Kimani', 0)","(137, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567689.
+",None,None
+"('Kiamwangi Coffee Growers Co-operative Society', 0)","(139, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567508.
+",None,None
+"('Kiamwangi Coffee Growers Co-operative Society', 0)","(141, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567508.
+",None,None
+"('George Thuo Muthwanga', 0)","(143, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567731.
+",None,None
+"('Julius Emojong Jared Ekanusur', 0)","(145, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567743.
+",None,None
+"('Richard Mwaura Kahiga', 0)","(147, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567897.
+",None,None
+"('Peter Muriithi Mukandu', 0)","(149, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3593505.
+",None,None
+"('Inoi/Kaitheri/971', 0)","(151, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietors in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3593527.
+",None,None
+"('Solomon Munene Gachoki', 0)","(151, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietors in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3593527.
+",None,None
+"('Nester Warui Gachoki', 0)","(151, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietors in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3593527.
+",None,None
+"('Peter Mugambi Mauki', 0)","(155, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567968.
+",None,None
+"('Michael Wagaya Miyuga', 0)","(157, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567718.
+",None,None
+"('Michael Odhiambo Otai', 0)","(159, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567822.
+",None,None
+"('Evans Otieno Ogollah', 0)","(161, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567717.
+",None,None
+"('John Olaka Musa', 0)","(163, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567929.
+",None,None
+"('Peter Wafula Wekesa', 0)","(165, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567929.
+",None,None
+"('Changwony Kibet', 0)","(167, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietors in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567811.
+",None,None
+"('Chemngetich Kiplangat', 0)","(167, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietors in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567811.
+",None,None
+"('Makanga Wambura', 0)","(170, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567775.
+",None,None
+"('Deborah Wambui Mwaura', 0)","(172, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567761.
+","('C. N. KITUYI', 0)","Signator object. 
+Name: C. N. KITUYI
+Location: ['Nairobi']
+Role: [' Land Registrar']
+"
+"('John Muiruri Njenga', 0)","(172, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567761.
+","('C. N. KITUYI', 0)","Signator object. 
+Name: C. N. KITUYI
+Location: ['Nairobi']
+Role: [' Land Registrar']
+"
+"('Gitau Joseph', 0)","(172, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567761.
+","('C. N. KITUYI', 0)","Signator object. 
+Name: C. N. KITUYI
+Location: ['Nairobi']
+Role: [' Land Registrar']
+"
+"('Lucia Wanjiru Memiah', 0)","(176, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567975.
+","('C. N. KITUYI', 0)","Signator object. 
+Name: C. N. KITUYI
+Location: ['Nairobi']
+Role: [' Land Registrar']
+"
+"('Jane Njambi Memiah', 0)","(176, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567975.
+","('C. N. KITUYI', 0)","Signator object. 
+Name: C. N. KITUYI
+Location: ['Nairobi']
+Role: [' Land Registrar']
+"
+"('Veronica Wachuka Memiah', 0)","(176, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567975.
+","('C. N. KITUYI', 0)","Signator object. 
+Name: C. N. KITUYI
+Location: ['Nairobi']
+Role: [' Land Registrar']
+"
+"('Mastermind Tobacco Kenya Limited', 0)","(180, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567835.
+","('G. M. MUYANGA', 0)","Signator object. 
+Name: G. M. MUYANGA
+Location: ['Nairobi']
+Role: [' Registrar of Titles', ' Land Registrar']
+"
+"('The Church Commissioners for Kenya', 0)","(182, 0)",1,"Edge between person or organization and land.
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567792.
+",None,None
+"('Penninah Wanjiku Kinyanjui', 0)","(184, 0)",1,"Edge between person or organization and land.
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567965.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Kiambaa/Waguthu/2238', 0)","(184, 0)",1,"Edge between person or organization and land.
+Ownership Status: proprietor in absolute ownership.
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567965.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Ibrahim Mukthar Abashikh', 0)","(187, 0)",1,"Edge between person or organization and land.
+Deed Status: ['lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3593542.
+","('J. T. BAO', 0)","Signator object. 
+Name: J. T. BAO
 Location: Kilifi District
 Role:  Land Registrar
 "
-"('Margaret Imali Omutula', 0)","(180, 0)",1,"Edge between person or organization and land.
+"('Ngomeni/Squatter Settlement Scheme/1968', 0)","(187, 0)",1,"Edge between person or organization and land.
 Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508321.
-",None,None
-"('Mary Kahendi Omutula', 0)","(180, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508321.
-",None,None
-"('Joyce Otiro Omutula', 0)","(180, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508321.
-",None,None
-"('Ibrahim Omutula s/o Benjamin Lukoko', 0)","(180, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508321.
-",None,None
-"('Marama/Shinamwenyuli/2159', 0)","(180, 0)",1,"Edge between person or organization and land.
-Deed Status: ['lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508321.
-",None,None
-"('Milka Watetu Gathiru', 0)","(186, 0)",1,"Edge between person or organization and land.
-Deed Status: ['cancelled and of no effect', 'lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508103.
-","('S. M. MWANZAWA', 0)","Signator object. 
-Name: S. M. MWANZAWA
-Location: ['Nyeri District']
-Role: [' Land Registrar', ' and Registrar']
-"
-"('Daniel Menge Moses', 0)","(186, 0)",1,"Edge between person or organization and land.
-Deed Status: ['cancelled and of no effect', 'lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508103.
-","('S. M. MWANZAWA', 0)","Signator object. 
-Name: S. M. MWANZAWA
-Location: ['Nyeri District']
-Role: [' Land Registrar', ' and Registrar']
-"
-"('Daniel Mathenge Moses', 0)","(186, 0)",1,"Edge between person or organization and land.
-Deed Status: ['cancelled and of no effect', 'lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508103.
-","('S. M. MWANZAWA', 0)","Signator object. 
-Name: S. M. MWANZAWA
-Location: ['Nyeri District']
-Role: [' Land Registrar', ' and Registrar']
-"
-"('Milka Watetu Gathiru', 0)","(186, 0)",1,"Edge between person or organization and land.
-Deed Status: ['cancelled and of no effect', 'lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508103.
-","('S. M. MWANZAWA', 0)","Signator object. 
-Name: S. M. MWANZAWA
-Location: ['Nyeri District']
-Role: [' Land Registrar', ' and Registrar']
-"
-"('Nyeri', 0)","(186, 0)",1,"Edge between person or organization and land.
-Deed Status: ['cancelled and of no effect', 'lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508103.
-","('S. M. MWANZAWA', 0)","Signator object. 
-Name: S. M. MWANZAWA
-Location: ['Nyeri District']
-Role: [' Land Registrar', ' and Registrar']
-"
-"('the High Court of Kenya', 0)","(186, 0)",1,"Edge between person or organization and land.
-Deed Status: ['cancelled and of no effect', 'lost'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508103.
-","('S. M. MWANZAWA', 0)","Signator object. 
-Name: S. M. MWANZAWA
-Location: ['Nyeri District']
-Role: [' Land Registrar', ' and Registrar']
-"
-"('John Kariuki Tumbo', 0)","(193, 0)",1,"Edge between person or organization and land.
-Deed Status: ['cancelled and of no effect'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508202.
-","('C. M. WACUKA', 0)","Signator object. 
-Name: C. M. WACUKA
-Location: Naivasha District
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3593542.
+","('J. T. BAO', 0)","Signator object. 
+Name: J. T. BAO
+Location: Kilifi District
 Role:  Land Registrar
 "
-"('Ngugi Njoroge', 0)","(193, 0)",1,"Edge between person or organization and land.
-Deed Status: ['cancelled and of no effect'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508202.
-","('C. M. WACUKA', 0)","Signator object. 
-Name: C. M. WACUKA
-Location: Naivasha District
+"('John Francis Njomo', 0)","(190, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567758.
+","('J. M. KITHUKA', 0)","Signator object. 
+Name: J. M. KITHUKA
+Location: Kiambu District
 Role:  Land Registrar
 "
-"('Njoroge', 0)","(193, 0)",1,"Edge between person or organization and land.
-Deed Status: ['cancelled and of no effect'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508202.
-","('C. M. WACUKA', 0)","Signator object. 
-Name: C. M. WACUKA
-Location: Naivasha District
+"('Elizabeth Wanjiru Njomo', 0)","(190, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567758.
+","('J. M. KITHUKA', 0)","Signator object. 
+Name: J. M. KITHUKA
+Location: Kiambu District
 Role:  Land Registrar
 "
-"('John Kariuki Tumbo', 2)","(193, 0)",1,"Edge between person or organization and land.
-Deed Status: ['cancelled and of no effect'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508202.
-","('C. M. WACUKA', 0)","Signator object. 
-Name: C. M. WACUKA
-Location: Naivasha District
+"('R. L. 7', 0)","(190, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567758.
+","('J. M. KITHUKA', 0)","Signator object. 
+Name: J. M. KITHUKA
+Location: Kiambu District
 Role:  Land Registrar
 "
-"('Karai Farmers five', 0)","(193, 0)",1,"Edge between person or organization and land.
-Deed Status: ['cancelled and of no effect'].
-Date of Announcement: 5th July, 2019.
-MR Number: MR/6508202.
-","('C. M. WACUKA', 0)","Signator object. 
-Name: C. M. WACUKA
-Location: Naivasha District
+"('R. L. 19', 0)","(190, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567758.
+","('J. M. KITHUKA', 0)","Signator object. 
+Name: J. M. KITHUKA
+Location: Kiambu District
 Role:  Land Registrar
 "
-"('Abdalla Mohamed Abdalla', 0)","('Mombasa/Block XVI/598', 0)",0.01,Same location: Mombasa,,
-"('Abdalla Mohamed Abdalla', 0)","('Plot', 0)",0.01,Same location: Mombasa,,
-"('Abdalla Mohamed Abdalla', 0)","('C.R. 19204/1', 0)",0.01,Same location: Mombasa,,
-"('Abdalla Mohamed Abdalla', 0)","('Elisabeth Wirth', 0)",0.01,Same location: Mombasa,,
-"('Abdalla Mohamed Abdalla', 0)","('Wilson Mwinyi Abdalla', 0)",0.01,Same location: Mombasa,,
-"('Abdalla Mohamed Abdalla', 0)","('Adham Mohamed Basty', 0)",0.01,Same location: Mombasa,,
-"('Abdalla Mohamed Abdalla', 0)","('557/1V/MN', 0)",0.01,Same location: Mombasa,,
-"('Abdalla Mohamed Abdalla', 0)","('Simon Willis Ouma', 0)",0.01,Same location: Mombasa,,
-"('Abdalla Mohamed Abdalla', 0)","('Ibrahim Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Abdalla Mohamed Abdalla', 0)","('Ahmed Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Abdalla Mohamed Abdalla', 0)","('Raksha Mahendra Patel', 0)",0.01,Same location: Mombasa,,
-"('Abdalla Mohamed Abdalla', 0)","('Mahendra Jashbhai Patel', 0)",0.01,Same location: Mombasa,,
-"('Mombasa/Block XVI/598', 0)","('Plot', 0)",0.01,Same location: Mombasa,,
-"('Mombasa/Block XVI/598', 0)","('C.R. 19204/1', 0)",0.01,Same location: Mombasa,,
-"('Mombasa/Block XVI/598', 0)","('Elisabeth Wirth', 0)",0.01,Same location: Mombasa,,
-"('Mombasa/Block XVI/598', 0)","('Wilson Mwinyi Abdalla', 0)",0.01,Same location: Mombasa,,
-"('Mombasa/Block XVI/598', 0)","('Adham Mohamed Basty', 0)",0.01,Same location: Mombasa,,
-"('Mombasa/Block XVI/598', 0)","('557/1V/MN', 0)",0.01,Same location: Mombasa,,
-"('Mombasa/Block XVI/598', 0)","('Simon Willis Ouma', 0)",0.01,Same location: Mombasa,,
-"('Mombasa/Block XVI/598', 0)","('Ibrahim Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Mombasa/Block XVI/598', 0)","('Ahmed Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Mombasa/Block XVI/598', 0)","('Raksha Mahendra Patel', 0)",0.01,Same location: Mombasa,,
-"('Mombasa/Block XVI/598', 0)","('Mahendra Jashbhai Patel', 0)",0.01,Same location: Mombasa,,
-"('Plot', 0)","('C.R. 19204/1', 0)",0.01,Same location: Mombasa,,
-"('Plot', 0)","('Elisabeth Wirth', 0)",0.01,Same location: Mombasa,,
-"('Plot', 0)","('Wilson Mwinyi Abdalla', 0)",0.01,Same location: Mombasa,,
-"('Plot', 0)","('Adham Mohamed Basty', 0)",0.01,Same location: Mombasa,,
-"('Plot', 0)","('557/1V/MN', 0)",0.01,Same location: Mombasa,,
-"('Plot', 0)","('Simon Willis Ouma', 0)",0.01,Same location: Mombasa,,
-"('Plot', 0)","('Ibrahim Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Plot', 0)","('Ahmed Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Plot', 0)","('Raksha Mahendra Patel', 0)",0.01,Same location: Mombasa,,
-"('Plot', 0)","('Mahendra Jashbhai Patel', 0)",0.01,Same location: Mombasa,,
-"('C.R. 19204/1', 0)","('Elisabeth Wirth', 0)",0.01,Same location: Mombasa,,
-"('C.R. 19204/1', 0)","('Wilson Mwinyi Abdalla', 0)",0.01,Same location: Mombasa,,
-"('C.R. 19204/1', 0)","('Adham Mohamed Basty', 0)",0.01,Same location: Mombasa,,
-"('C.R. 19204/1', 0)","('557/1V/MN', 0)",0.01,Same location: Mombasa,,
-"('C.R. 19204/1', 0)","('Simon Willis Ouma', 0)",0.01,Same location: Mombasa,,
-"('C.R. 19204/1', 0)","('Ibrahim Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('C.R. 19204/1', 0)","('Ahmed Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('C.R. 19204/1', 0)","('Raksha Mahendra Patel', 0)",0.01,Same location: Mombasa,,
-"('C.R. 19204/1', 0)","('Mahendra Jashbhai Patel', 0)",0.01,Same location: Mombasa,,
-"('Elisabeth Wirth', 0)","('Wilson Mwinyi Abdalla', 0)",0.01,Same location: Mombasa,,
-"('Elisabeth Wirth', 0)","('Adham Mohamed Basty', 0)",0.01,Same location: Mombasa,,
-"('Elisabeth Wirth', 0)","('557/1V/MN', 0)",0.01,Same location: Mombasa,,
-"('Elisabeth Wirth', 0)","('Simon Willis Ouma', 0)",0.01,Same location: Mombasa,,
-"('Elisabeth Wirth', 0)","('Ibrahim Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Elisabeth Wirth', 0)","('Ahmed Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Elisabeth Wirth', 0)","('Raksha Mahendra Patel', 0)",0.01,Same location: Mombasa,,
-"('Elisabeth Wirth', 0)","('Mahendra Jashbhai Patel', 0)",0.01,Same location: Mombasa,,
-"('Wilson Mwinyi Abdalla', 0)","('Adham Mohamed Basty', 0)",0.01,Same location: Mombasa,,
-"('Wilson Mwinyi Abdalla', 0)","('557/1V/MN', 0)",0.01,Same location: Mombasa,,
-"('Wilson Mwinyi Abdalla', 0)","('Simon Willis Ouma', 0)",0.01,Same location: Mombasa,,
-"('Wilson Mwinyi Abdalla', 0)","('Ibrahim Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Wilson Mwinyi Abdalla', 0)","('Ahmed Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Wilson Mwinyi Abdalla', 0)","('Raksha Mahendra Patel', 0)",0.01,Same location: Mombasa,,
-"('Wilson Mwinyi Abdalla', 0)","('Mahendra Jashbhai Patel', 0)",0.01,Same location: Mombasa,,
-"('Adham Mohamed Basty', 0)","('557/1V/MN', 0)",0.01,Same location: Mombasa,,
-"('Adham Mohamed Basty', 0)","('Simon Willis Ouma', 0)",0.01,Same location: Mombasa,,
-"('Adham Mohamed Basty', 0)","('Ibrahim Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Adham Mohamed Basty', 0)","('Ahmed Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Adham Mohamed Basty', 0)","('Raksha Mahendra Patel', 0)",0.01,Same location: Mombasa,,
-"('Adham Mohamed Basty', 0)","('Mahendra Jashbhai Patel', 0)",0.01,Same location: Mombasa,,
-"('557/1V/MN', 0)","('Simon Willis Ouma', 0)",0.01,Same location: Mombasa,,
-"('557/1V/MN', 0)","('Ibrahim Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('557/1V/MN', 0)","('Ahmed Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('557/1V/MN', 0)","('Raksha Mahendra Patel', 0)",0.01,Same location: Mombasa,,
-"('557/1V/MN', 0)","('Mahendra Jashbhai Patel', 0)",0.01,Same location: Mombasa,,
-"('Simon Willis Ouma', 0)","('Ibrahim Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Simon Willis Ouma', 0)","('Ahmed Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Simon Willis Ouma', 0)","('Raksha Mahendra Patel', 0)",0.01,Same location: Mombasa,,
-"('Simon Willis Ouma', 0)","('Mahendra Jashbhai Patel', 0)",0.01,Same location: Mombasa,,
-"('Ibrahim Ali Omar', 0)","('Ahmed Ali Omar', 0)",0.01,Same location: Mombasa,,
-"('Ibrahim Ali Omar', 0)","('Raksha Mahendra Patel', 0)",0.01,Same location: Mombasa,,
-"('Ibrahim Ali Omar', 0)","('Mahendra Jashbhai Patel', 0)",0.01,Same location: Mombasa,,
-"('Ahmed Ali Omar', 0)","('Raksha Mahendra Patel', 0)",0.01,Same location: Mombasa,,
-"('Ahmed Ali Omar', 0)","('Mahendra Jashbhai Patel', 0)",0.01,Same location: Mombasa,,
-"('Raksha Mahendra Patel', 0)","('Mahendra Jashbhai Patel', 0)",0.01,Same location: Mombasa,,
-"('C.R. 53765', 0)","('Ist December', 0)",0.01,Same location: Malindi,,
-"('C.R. 53765', 0)","('Fatma Eric Edward Barallon', 0)",0.01,Same location: Malindi,,
-"('Ist December', 0)","('Fatma Eric Edward Barallon', 0)",0.01,Same location: Malindi,,
-"('Geoffrey K. Koros', 0)","('J. W. KAMUYU', 0)",0.01,Same location: Thika,,
-"('Geoffrey K. Koros', 0)","('Antony Mwendia Matheri', 0)",0.01,Same location: Thika,,
-"('J. W. KAMUYU', 0)","('Antony Mwendia Matheri', 0)",0.01,Same location: Thika,,
-"('Judith Amondi Oketch', 0)","('Edward Aroka Kargungu Brevi', 0)",0.01,Same location: Kisumu,,
-"('Judith Amondi Oketch', 0)","('Patricia Akinyi Oduor', 0)",0.01,Same location: Kisumu,,
-"('Judith Amondi Oketch', 0)","('George Oduho Oliech', 0)",0.01,Same location: Kisumu,,
-"('Judith Amondi Oketch', 0)","('Kisumu', 0)",0.01,Same location: Kisumu,,
-"('Judith Amondi Oketch', 0)","('Maritha Odero Ochanjo', 0)",0.01,Same location: Kisumu,,
-"('Edward Aroka Kargungu Brevi', 0)","('Patricia Akinyi Oduor', 0)",0.01,Same location: Kisumu,,
-"('Edward Aroka Kargungu Brevi', 0)","('George Oduho Oliech', 0)",0.01,Same location: Kisumu,,
-"('Edward Aroka Kargungu Brevi', 0)","('Kisumu', 0)",0.01,Same location: Kisumu,,
-"('Edward Aroka Kargungu Brevi', 0)","('Maritha Odero Ochanjo', 0)",0.01,Same location: Kisumu,,
-"('Patricia Akinyi Oduor', 0)","('George Oduho Oliech', 0)",0.01,Same location: Kisumu,,
-"('Patricia Akinyi Oduor', 0)","('Kisumu', 0)",0.01,Same location: Kisumu,,
-"('Patricia Akinyi Oduor', 0)","('Maritha Odero Ochanjo', 0)",0.01,Same location: Kisumu,,
-"('George Oduho Oliech', 0)","('Kisumu', 0)",0.01,Same location: Kisumu,,
-"('George Oduho Oliech', 0)","('Maritha Odero Ochanjo', 0)",0.01,Same location: Kisumu,,
-"('Kisumu', 0)","('Maritha Odero Ochanjo', 0)",0.01,Same location: Kisumu,,
-"('Mbugua Mungai Njuguna', 0)","('George Gathua Waigi', 0)",0.01,Same location: Nakuru,,
-"('Mbugua Mungai Njuguna', 0)","('Bedi Investment', 0)",0.01,Same location: Nakuru,,
-"('George Gathua Waigi', 0)","('Bedi Investment', 0)",0.01,Same location: Nakuru,,
-"('Ruiru', 0)","('Faith Wangechi Gitari', 0)",0.01,Same location: Nairobi,,
-"('Ruiru', 0)","('Solomon Mwangi Githinji', 0)",0.01,Same location: Nairobi,,
-"('Ruiru', 0)","('Oloitokitosh-Kitengela/54190', 0)",0.01,Same location: Nairobi,,
-"('Ruiru', 0)","('Kajiado', 0)",0.01,Same location: Nairobi,,
-"('Ruiru', 0)","('Finnlemm Sacco Society Limited', 0)",0.01,Same location: Nairobi,,
-"('Ruiru', 0)","('Stima Investment Co-operative Society Limited', 0)",0.01,Same location: Nairobi,,
-"('Ruiru', 0)","('Kuguru Food Complex Limited', 0)",0.01,Same location: Nairobi,,
-"('Ruiru', 0)","('Samuel Kimani Mukundi', 0)",0.01,Same location: Nairobi,,
-"('Ruiru', 0)","('Nakuru/Municipality Block 26/993', 0)",0.01,Same location: Nairobi,,
-"('Faith Wangechi Gitari', 0)","('Solomon Mwangi Githinji', 0)",0.01,Same location: Nairobi,,
-"('Faith Wangechi Gitari', 0)","('Oloitokitosh-Kitengela/54190', 0)",0.01,Same location: Nairobi,,
-"('Faith Wangechi Gitari', 0)","('Kajiado', 0)",0.01,Same location: Nairobi,,
-"('Faith Wangechi Gitari', 0)","('Finnlemm Sacco Society Limited', 0)",0.01,Same location: Nairobi,,
-"('Faith Wangechi Gitari', 0)","('Stima Investment Co-operative Society Limited', 0)",0.01,Same location: Nairobi,,
-"('Faith Wangechi Gitari', 0)","('Kuguru Food Complex Limited', 0)",0.01,Same location: Nairobi,,
-"('Faith Wangechi Gitari', 0)","('Samuel Kimani Mukundi', 0)",0.01,Same location: Nairobi,,
-"('Faith Wangechi Gitari', 0)","('Nakuru/Municipality Block 26/993', 0)",0.01,Same location: Nairobi,,
-"('Solomon Mwangi Githinji', 0)","('Oloitokitosh-Kitengela/54190', 0)",0.01,Same location: Nairobi,,
-"('Solomon Mwangi Githinji', 0)","('Kajiado', 0)",0.01,Same location: Nairobi,,
-"('Solomon Mwangi Githinji', 0)","('Finnlemm Sacco Society Limited', 0)",0.01,Same location: Nairobi,,
-"('Solomon Mwangi Githinji', 0)","('Stima Investment Co-operative Society Limited', 0)",0.01,Same location: Nairobi,,
-"('Solomon Mwangi Githinji', 0)","('Kuguru Food Complex Limited', 0)",0.01,Same location: Nairobi,,
-"('Solomon Mwangi Githinji', 0)","('Samuel Kimani Mukundi', 0)",0.01,Same location: Nairobi,,
-"('Solomon Mwangi Githinji', 0)","('Nakuru/Municipality Block 26/993', 0)",0.01,Same location: Nairobi,,
-"('Oloitokitosh-Kitengela/54190', 0)","('Kajiado', 0)",0.01,Same location: Nairobi,,
-"('Oloitokitosh-Kitengela/54190', 0)","('Finnlemm Sacco Society Limited', 0)",0.01,Same location: Nairobi,,
-"('Oloitokitosh-Kitengela/54190', 0)","('Stima Investment Co-operative Society Limited', 0)",0.01,Same location: Nairobi,,
-"('Oloitokitosh-Kitengela/54190', 0)","('Kuguru Food Complex Limited', 0)",0.01,Same location: Nairobi,,
-"('Oloitokitosh-Kitengela/54190', 0)","('Samuel Kimani Mukundi', 0)",0.01,Same location: Nairobi,,
-"('Oloitokitosh-Kitengela/54190', 0)","('Nakuru/Municipality Block 26/993', 0)",0.01,Same location: Nairobi,,
-"('Kajiado', 0)","('Finnlemm Sacco Society Limited', 0)",0.01,Same location: Nairobi,,
-"('Kajiado', 0)","('Stima Investment Co-operative Society Limited', 0)",0.01,Same location: Nairobi,,
-"('Kajiado', 0)","('Kuguru Food Complex Limited', 0)",0.01,Same location: Nairobi,,
-"('Kajiado', 0)","('Samuel Kimani Mukundi', 0)",0.01,Same location: Nairobi,,
-"('Kajiado', 0)","('Nakuru/Municipality Block 26/993', 0)",0.01,Same location: Nairobi,,
-"('Finnlemm Sacco Society Limited', 0)","('Stima Investment Co-operative Society Limited', 0)",0.01,Same location: Nairobi,,
-"('Finnlemm Sacco Society Limited', 0)","('Kuguru Food Complex Limited', 0)",0.01,Same location: Nairobi,,
-"('Finnlemm Sacco Society Limited', 0)","('Samuel Kimani Mukundi', 0)",0.01,Same location: Nairobi,,
-"('Finnlemm Sacco Society Limited', 0)","('Nakuru/Municipality Block 26/993', 0)",0.01,Same location: Nairobi,,
-"('Stima Investment Co-operative Society Limited', 0)","('Kuguru Food Complex Limited', 0)",0.01,Same location: Nairobi,,
-"('Stima Investment Co-operative Society Limited', 0)","('Samuel Kimani Mukundi', 0)",0.01,Same location: Nairobi,,
-"('Stima Investment Co-operative Society Limited', 0)","('Nakuru/Municipality Block 26/993', 0)",0.01,Same location: Nairobi,,
-"('Kuguru Food Complex Limited', 0)","('Samuel Kimani Mukundi', 0)",0.01,Same location: Nairobi,,
-"('Kuguru Food Complex Limited', 0)","('Nakuru/Municipality Block 26/993', 0)",0.01,Same location: Nairobi,,
-"('Samuel Kimani Mukundi', 0)","('Nakuru/Municipality Block 26/993', 0)",0.01,Same location: Nairobi,,
-"('Kellen Muthoni Ndwiga', 0)","('Rael Gikuu', 0)",0.01,Same location: Embu,,
-"('Francis Kariuki Ndungu', 0)","('Nyandarua', 0)",0.01,Same location: Naivasha,,
-"(""Nyang'au Nyangera"", 0)","('Annah Nyabonyi Nyangwara', 0)",0.01,Same location: Kisii,,
+"('John Francis Njomo', 0)","(190, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567758.
+","('J. M. KITHUKA', 0)","Signator object. 
+Name: J. M. KITHUKA
+Location: Kiambu District
+Role:  Land Registrar
+"
+"('Elizabeth Wanjiru Njomo', 0)","(190, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567758.
+","('J. M. KITHUKA', 0)","Signator object. 
+Name: J. M. KITHUKA
+Location: Kiambu District
+Role:  Land Registrar
+"
+"('John Francis Njomo', 0)","(190, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567758.
+","('J. M. KITHUKA', 0)","Signator object. 
+Name: J. M. KITHUKA
+Location: Kiambu District
+Role:  Land Registrar
+"
+"('John Francis Njomo', 0)","(190, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567758.
+","('J. M. KITHUKA', 0)","Signator object. 
+Name: J. M. KITHUKA
+Location: Kiambu District
+Role:  Land Registrar
+"
+"('Elizabeth Wanjiru Njomo', 0)","(190, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567758.
+","('J. M. KITHUKA', 0)","Signator object. 
+Name: J. M. KITHUKA
+Location: Kiambu District
+Role:  Land Registrar
+"
+"('The public Trustee', 0)","(190, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567758.
+","('J. M. KITHUKA', 0)","Signator object. 
+Name: J. M. KITHUKA
+Location: Kiambu District
+Role:  Land Registrar
+"
+"('Ndumberi/Ndumberi/1139', 0)","(190, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567758.
+","('J. M. KITHUKA', 0)","Signator object. 
+Name: J. M. KITHUKA
+Location: Kiambu District
+Role:  Land Registrar
+"
+"('Mungai Wanguru', 0)","(202, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567740.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Justus Mungai Wanguru', 0)","(202, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567740.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('R. L. 7', 0)","(202, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567740.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('R. L. 19', 0)","(202, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567740.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Mungai Wanguru', 0)","(202, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567740.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Justus Mungai Wanguru', 0)","(202, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567740.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Margaret Gichira Njubi', 0)","(202, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567740.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Mary Waithira Nyokabi', 0)","(202, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567740.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Justus Mungai Wanguru alias Mungai Wanguru (deceased)', 0)","(202, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567740.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('The public Trustee', 0)","(202, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567740.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Komothai/Thuita/280', 0)","(202, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567740.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Wanjeri Nganga', 0)","(214, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567964.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Eunice Wanjeri Nganga', 0)","(214, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567964.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Trustee', 0)","(214, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567964.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('R. L. 7', 0)","(214, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567964.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('R. L. 19', 0)","(214, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567964.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Wanjeri Nganga', 0)","(214, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567964.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Eunice Wanjeri Nganga', 0)","(214, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567964.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Kikuyu', 0)","(214, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567964.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Margaret Wangui Nganga', 0)","(214, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567964.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Margaret Ngendo Chege', 0)","(214, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567964.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Eunice Wanjeri Nganga alias Wanjeri Nganga (deceased)', 0)","(214, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567964.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('the High Court', 0)","(214, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567964.
+","('G. R. GICHUKI', 0)","Signator object. 
+Name: G. R. GICHUKI
+Location: ['Kiambu District']
+Role: [' Land Registrar']
+"
+"('Wambui Gatono', 0)","(227, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567798.
+","('J. K. NJOROGE', 0)","Signator object. 
+Name: J. K. NJOROGE
+Location: Thika District
+Role:  Land Registrar
+"
+"('Wambui Njuguna', 0)","(227, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567798.
+","('J. K. NJOROGE', 0)","Signator object. 
+Name: J. K. NJOROGE
+Location: Thika District
+Role:  Land Registrar
+"
+"('R. L. 7', 0)","(227, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567798.
+","('J. K. NJOROGE', 0)","Signator object. 
+Name: J. K. NJOROGE
+Location: Thika District
+Role:  Land Registrar
+"
+"('R. L. 19', 0)","(227, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567798.
+","('J. K. NJOROGE', 0)","Signator object. 
+Name: J. K. NJOROGE
+Location: Thika District
+Role:  Land Registrar
+"
+"('Wambui Gatono', 0)","(227, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567798.
+","('J. K. NJOROGE', 0)","Signator object. 
+Name: J. K. NJOROGE
+Location: Thika District
+Role:  Land Registrar
+"
+"('Wambui Njuguna', 0)","(227, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567798.
+","('J. K. NJOROGE', 0)","Signator object. 
+Name: J. K. NJOROGE
+Location: Thika District
+Role:  Land Registrar
+"
+"('John Njuguna Kinuthia', 0)","(227, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567798.
+","('J. K. NJOROGE', 0)","Signator object. 
+Name: J. K. NJOROGE
+Location: Thika District
+Role:  Land Registrar
+"
+"('Thika', 0)","(227, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567798.
+","('J. K. NJOROGE', 0)","Signator object. 
+Name: J. K. NJOROGE
+Location: Thika District
+Role:  Land Registrar
+"
+"('Wambui Njuguna alias Wambui Gatono (deceased)', 0)","(227, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567798.
+","('J. K. NJOROGE', 0)","Signator object. 
+Name: J. K. NJOROGE
+Location: Thika District
+Role:  Land Registrar
+"
+"('Njoroge Gichohu', 0)","(237, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567948.
+","('K. G. NDEGWA', 0)","Signator object. 
+Name: K. G. NDEGWA
+Location: Thika District
+Role:  Land Registrar
+"
+"('R. L. 7', 0)","(237, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567948.
+","('K. G. NDEGWA', 0)","Signator object. 
+Name: K. G. NDEGWA
+Location: Thika District
+Role:  Land Registrar
+"
+"('R. L. 19', 0)","(237, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567948.
+","('K. G. NDEGWA', 0)","Signator object. 
+Name: K. G. NDEGWA
+Location: Thika District
+Role:  Land Registrar
+"
+"('Njoroge Gichohu', 0)","(237, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567948.
+","('K. G. NDEGWA', 0)","Signator object. 
+Name: K. G. NDEGWA
+Location: Thika District
+Role:  Land Registrar
+"
+"('John Kimani Njoroge', 0)","(237, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567948.
+","('K. G. NDEGWA', 0)","Signator object. 
+Name: K. G. NDEGWA
+Location: Thika District
+Role:  Land Registrar
+"
+"('Joseph Kamau Njoroge', 0)","(237, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567948.
+","('K. G. NDEGWA', 0)","Signator object. 
+Name: K. G. NDEGWA
+Location: Thika District
+Role:  Land Registrar
+"
+"('James Kamau Njoroge', 0)","(237, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567948.
+","('K. G. NDEGWA', 0)","Signator object. 
+Name: K. G. NDEGWA
+Location: Thika District
+Role:  Land Registrar
+"
+"('Njoroge Gachohu (deceased)', 0)","(237, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567948.
+","('K. G. NDEGWA', 0)","Signator object. 
+Name: K. G. NDEGWA
+Location: Thika District
+Role:  Land Registrar
+"
+"('Gatundu', 0)","(237, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567948.
+","('K. G. NDEGWA', 0)","Signator object. 
+Name: K. G. NDEGWA
+Location: Thika District
+Role:  Land Registrar
+"
+"('the High Court', 0)","(237, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567948.
+","('K. G. NDEGWA', 0)","Signator object. 
+Name: K. G. NDEGWA
+Location: Thika District
+Role:  Land Registrar
+"
+"('Kiganjo/Handege/1241', 0)","(237, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567948.
+","('K. G. NDEGWA', 0)","Signator object. 
+Name: K. G. NDEGWA
+Location: Thika District
+Role:  Land Registrar
+"
+"('Lawrence Kamau Wamai', 0)","(249, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567760.
+","('C. M. GICHUKI', 0)","Signator object. 
+Name: C. M. GICHUKI
+Location: Nyandarua/Samburu Districts
+Role:  Land Registrar
+"
+"('R. L. 7', 0)","(249, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567760.
+","('C. M. GICHUKI', 0)","Signator object. 
+Name: C. M. GICHUKI
+Location: Nyandarua/Samburu Districts
+Role:  Land Registrar
+"
+"('R. L. 19', 0)","(249, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567760.
+","('C. M. GICHUKI', 0)","Signator object. 
+Name: C. M. GICHUKI
+Location: Nyandarua/Samburu Districts
+Role:  Land Registrar
+"
+"('Lawrence Kamau Wamai', 0)","(249, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567760.
+","('C. M. GICHUKI', 0)","Signator object. 
+Name: C. M. GICHUKI
+Location: Nyandarua/Samburu Districts
+Role:  Land Registrar
+"
+"('Mary Njeri Kamau', 0)","(249, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567760.
+","('C. M. GICHUKI', 0)","Signator object. 
+Name: C. M. GICHUKI
+Location: Nyandarua/Samburu Districts
+Role:  Land Registrar
+"
+"('Lawrence Kamau Wamai (deceased)', 0)","(249, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567760.
+","('C. M. GICHUKI', 0)","Signator object. 
+Name: C. M. GICHUKI
+Location: Nyandarua/Samburu Districts
+Role:  Land Registrar
+"
+"('the High Court at Nakuru', 0)","(249, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567760.
+","('C. M. GICHUKI', 0)","Signator object. 
+Name: C. M. GICHUKI
+Location: Nyandarua/Samburu Districts
+Role:  Land Registrar
+"
+"('Nyandarua/Pesi/292', 0)","(249, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567760.
+","('C. M. GICHUKI', 0)","Signator object. 
+Name: C. M. GICHUKI
+Location: Nyandarua/Samburu Districts
+Role:  Land Registrar
+"
+"('Kithii Mweela', 0)","(258, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567501.
+","('L. K. MUGUTI', 0)","Signator object. 
+Name: L. K. MUGUTI
+Location: Kitui District
+Role:  Land Registrar
+"
+"('Kathii Mweela', 0)","(258, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567501.
+","('L. K. MUGUTI', 0)","Signator object. 
+Name: L. K. MUGUTI
+Location: Kitui District
+Role:  Land Registrar
+"
+"('Lucia Wayua Kithii', 0)","(258, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567501.
+","('L. K. MUGUTI', 0)","Signator object. 
+Name: L. K. MUGUTI
+Location: Kitui District
+Role:  Land Registrar
+"
+"('Kyangwithya', 0)","(258, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567501.
+","('L. K. MUGUTI', 0)","Signator object. 
+Name: L. K. MUGUTI
+Location: Kitui District
+Role:  Land Registrar
+"
+"('Kithii Mweela (deceased)', 0)","(258, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect', 'lost'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567501.
+","('L. K. MUGUTI', 0)","Signator object. 
+Name: L. K. MUGUTI
+Location: Kitui District
+Role:  Land Registrar
+"
+"('Raphael Nyahaya Ogumbu', 0)","(264, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567728.
+","('M. MOGARE', 0)","Signator object. 
+Name: M. MOGARE
+Location: Siaya District
+Role:  Land Registrar
+"
+"('Raphael Nyahayaogumbo', 0)","(264, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567728.
+","('M. MOGARE', 0)","Signator object. 
+Name: M. MOGARE
+Location: Siaya District
+Role:  Land Registrar
+"
+"('Kenstone Odhiambo Nyahaya', 0)","(264, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567728.
+","('M. MOGARE', 0)","Signator object. 
+Name: M. MOGARE
+Location: Siaya District
+Role:  Land Registrar
+"
+"('Kenstone Odhiambo Nyahaya', 0)","(264, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567728.
+","('M. MOGARE', 0)","Signator object. 
+Name: M. MOGARE
+Location: Siaya District
+Role:  Land Registrar
+"
+"('Raphael Nyahayaogumbo alais Raphael Nyahaya Ogumbu (deceased)', 0)","(264, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567728.
+","('M. MOGARE', 0)","Signator object. 
+Name: M. MOGARE
+Location: Siaya District
+Role:  Land Registrar
+"
+"('Siaya', 0)","(264, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567728.
+","('M. MOGARE', 0)","Signator object. 
+Name: M. MOGARE
+Location: Siaya District
+Role:  Land Registrar
+"
+"('the High Court', 0)","(264, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3567728.
+","('M. MOGARE', 0)","Signator object. 
+Name: M. MOGARE
+Location: Siaya District
+Role:  Land Registrar
+"
+"('Elizabeth Achieng Nyanya', 0)","(272, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3534514.
+","('P. A. NYANJA', 0)","Signator object. 
+Name: P. A. NYANJA
+Location: Ugenya/Ugunja Districts
+Role:  Land Registrar
+"
+"('Lilian Akinyi Amollo', 0)","(272, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3534514.
+","('P. A. NYANJA', 0)","Signator object. 
+Name: P. A. NYANJA
+Location: Ugenya/Ugunja Districts
+Role:  Land Registrar
+"
+"('Elizabeth Achieng Nyanya', 0)","(272, 0)",1,"Edge between person or organization and land.
+Deed Status: ['cancelled and of no effect'].
+Date of Announcement: 6th October, 2017.
+MR Number: MR/3534514.
+","('P. A. NYANJA', 0)","Signator object. 
+Name: P. A. NYANJA
+Location: Ugenya/Ugunja Districts
+Role:  Land Registrar
+"
+"('Mahfudh Ahmed Jeizan', 0)","('Mohammed Mahfudh Jeizan', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Hussein Mahfudh Jeizan', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('David Njoroge Waruru', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Paul Muhato', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Maisonette', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Wanjiku Wanyee', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Kinoiyo Company Limited', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Lucy Wambeti Murage', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Mary Kamene Mutia', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Anne Nyambura Kagondu', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Pius Nyambuga Mochoge', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Kajiado/Loodariak/824', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Wanjiru Mbiu', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Jane Mumbi Mithamo', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Mahfudh Ahmed Jeizan', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Hussein Mahfudh Jeizan', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('David Njoroge Waruru', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Paul Muhato', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Maisonette', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Wanjiku Wanyee', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Kinoiyo Company Limited', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Lucy Wambeti Murage', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Mary Kamene Mutia', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Anne Nyambura Kagondu', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Pius Nyambuga Mochoge', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Kajiado/Loodariak/824', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Wanjiru Mbiu', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Jane Mumbi Mithamo', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Mohammed Mahfudh Jeizan', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('David Njoroge Waruru', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Paul Muhato', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Maisonette', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Wanjiku Wanyee', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Kinoiyo Company Limited', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Lucy Wambeti Murage', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Mary Kamene Mutia', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Anne Nyambura Kagondu', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Pius Nyambuga Mochoge', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Kajiado/Loodariak/824', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Wanjiru Mbiu', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Jane Mumbi Mithamo', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Hussein Mahfudh Jeizan', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Paul Muhato', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Maisonette', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Wanjiku Wanyee', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Kinoiyo Company Limited', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Lucy Wambeti Murage', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Mary Kamene Mutia', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Anne Nyambura Kagondu', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Pius Nyambuga Mochoge', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Kajiado/Loodariak/824', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Wanjiru Mbiu', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Jane Mumbi Mithamo', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('David Njoroge Waruru', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Maisonette', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Wanjiku Wanyee', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Kinoiyo Company Limited', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Lucy Wambeti Murage', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Mary Kamene Mutia', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Anne Nyambura Kagondu', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Pius Nyambuga Mochoge', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Kajiado/Loodariak/824', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Wanjiru Mbiu', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Jane Mumbi Mithamo', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Paul Muhato', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Wanjiku Wanyee', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Kinoiyo Company Limited', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Lucy Wambeti Murage', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Mary Kamene Mutia', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Anne Nyambura Kagondu', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Pius Nyambuga Mochoge', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Kajiado/Loodariak/824', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Wanjiru Mbiu', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Jane Mumbi Mithamo', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Maisonette', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Kinoiyo Company Limited', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Lucy Wambeti Murage', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Mary Kamene Mutia', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Anne Nyambura Kagondu', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Pius Nyambuga Mochoge', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Kajiado/Loodariak/824', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Wanjiru Mbiu', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Jane Mumbi Mithamo', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Wanjiku Wanyee', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Lucy Wambeti Murage', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Mary Kamene Mutia', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Anne Nyambura Kagondu', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Pius Nyambuga Mochoge', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Kajiado/Loodariak/824', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Wanjiru Mbiu', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Jane Mumbi Mithamo', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Kinoiyo Company Limited', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Mary Kamene Mutia', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Anne Nyambura Kagondu', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Pius Nyambuga Mochoge', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Kajiado/Loodariak/824', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Wanjiru Mbiu', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Jane Mumbi Mithamo', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Lucy Wambeti Murage', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Anne Nyambura Kagondu', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Pius Nyambuga Mochoge', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Kajiado/Loodariak/824', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Wanjiru Mbiu', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Jane Mumbi Mithamo', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Mary Kamene Mutia', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Pius Nyambuga Mochoge', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Kajiado/Loodariak/824', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Wanjiru Mbiu', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Jane Mumbi Mithamo', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Anne Nyambura Kagondu', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Kajiado/Loodariak/824', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Wanjiru Mbiu', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Jane Mumbi Mithamo', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Pius Nyambuga Mochoge', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('Wanjiru Mbiu', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('Jane Mumbi Mithamo', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Kajiado/Loodariak/824', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('Jane Mumbi Mithamo', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Wanjiru Mbiu', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Jane Mumbi Mithamo', 0)","('Joseph Ngigi Kahiu', 0)",0.01,Same location: Nairobi,,
+"('Jane Mumbi Mithamo', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Jane Mumbi Mithamo', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Jane Mumbi Mithamo', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Jane Mumbi Mithamo', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Jane Mumbi Mithamo', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Jane Mumbi Mithamo', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Jane Mumbi Mithamo', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Jane Mumbi Mithamo', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Jane Mumbi Mithamo', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Jane Mumbi Mithamo', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Jane Mumbi Mithamo', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Jane Mumbi Mithamo', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Jane Mumbi Mithamo', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Joseph Ngigi Kahiu', 0)","('Mary Muthoni Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Joseph Ngigi Kahiu', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Joseph Ngigi Kahiu', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Joseph Ngigi Kahiu', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Joseph Ngigi Kahiu', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Joseph Ngigi Kahiu', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Joseph Ngigi Kahiu', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Joseph Ngigi Kahiu', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Joseph Ngigi Kahiu', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Joseph Ngigi Kahiu', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Joseph Ngigi Kahiu', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Joseph Ngigi Kahiu', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Joseph Ngigi Kahiu', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Mary Muthoni Wanjihia Njoroge', 0)","('Simon Wanjihia Njoroge', 0)",0.01,Same location: Nairobi,,
+"('Mary Muthoni Wanjihia Njoroge', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Mary Muthoni Wanjihia Njoroge', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Mary Muthoni Wanjihia Njoroge', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Mary Muthoni Wanjihia Njoroge', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Mary Muthoni Wanjihia Njoroge', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Mary Muthoni Wanjihia Njoroge', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Mary Muthoni Wanjihia Njoroge', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Mary Muthoni Wanjihia Njoroge', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Mary Muthoni Wanjihia Njoroge', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Mary Muthoni Wanjihia Njoroge', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Mary Muthoni Wanjihia Njoroge', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Simon Wanjihia Njoroge', 0)","('John Kiugu Gitau', 0)",0.01,Same location: Nairobi,,
+"('Simon Wanjihia Njoroge', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Simon Wanjihia Njoroge', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Simon Wanjihia Njoroge', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Simon Wanjihia Njoroge', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Simon Wanjihia Njoroge', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Simon Wanjihia Njoroge', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Simon Wanjihia Njoroge', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Simon Wanjihia Njoroge', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Simon Wanjihia Njoroge', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Simon Wanjihia Njoroge', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('John Kiugu Gitau', 0)","('Esther Njeri Njenga', 0)",0.01,Same location: Nairobi,,
+"('John Kiugu Gitau', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('John Kiugu Gitau', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('John Kiugu Gitau', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('John Kiugu Gitau', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('John Kiugu Gitau', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('John Kiugu Gitau', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('John Kiugu Gitau', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('John Kiugu Gitau', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('John Kiugu Gitau', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Esther Njeri Njenga', 0)","('Cares Catering and Supplies Limited', 0)",0.01,Same location: Nairobi,,
+"('Esther Njeri Njenga', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Esther Njeri Njenga', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Esther Njeri Njenga', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Esther Njeri Njenga', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Esther Njeri Njenga', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Esther Njeri Njenga', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Esther Njeri Njenga', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Esther Njeri Njenga', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Cares Catering and Supplies Limited', 0)","('Julius Emojong Jared Ekanusur', 0)",0.01,Same location: Nairobi,,
+"('Cares Catering and Supplies Limited', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Cares Catering and Supplies Limited', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Cares Catering and Supplies Limited', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Cares Catering and Supplies Limited', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Cares Catering and Supplies Limited', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Cares Catering and Supplies Limited', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Cares Catering and Supplies Limited', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Julius Emojong Jared Ekanusur', 0)","('Deborah Wambui Mwaura', 0)",0.01,Same location: Nairobi,,
+"('Julius Emojong Jared Ekanusur', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Julius Emojong Jared Ekanusur', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Julius Emojong Jared Ekanusur', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Julius Emojong Jared Ekanusur', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Julius Emojong Jared Ekanusur', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Julius Emojong Jared Ekanusur', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Deborah Wambui Mwaura', 0)","('John Muiruri Njenga', 0)",0.01,Same location: Nairobi,,
+"('Deborah Wambui Mwaura', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('Deborah Wambui Mwaura', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Deborah Wambui Mwaura', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Deborah Wambui Mwaura', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Deborah Wambui Mwaura', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('John Muiruri Njenga', 0)","('Gitau Joseph', 0)",0.01,Same location: Nairobi,,
+"('John Muiruri Njenga', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('John Muiruri Njenga', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('John Muiruri Njenga', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('John Muiruri Njenga', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Gitau Joseph', 0)","('Lucia Wanjiru Memiah', 0)",0.01,Same location: Nairobi,,
+"('Gitau Joseph', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Gitau Joseph', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Gitau Joseph', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Lucia Wanjiru Memiah', 0)","('Jane Njambi Memiah', 0)",0.01,Same location: Nairobi,,
+"('Lucia Wanjiru Memiah', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Lucia Wanjiru Memiah', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Jane Njambi Memiah', 0)","('Veronica Wachuka Memiah', 0)",0.01,Same location: Nairobi,,
+"('Jane Njambi Memiah', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('Veronica Wachuka Memiah', 0)","('Mastermind Tobacco Kenya Limited', 0)",0.01,Same location: Nairobi,,
+"('The Registered Trustees of Sheikh Zayed bin Sultan Al Nahyan', 0)","('Ibrahim Mukthar Abashikh', 0)",0.01,Same location: Mombasa,,
+"('The Registered Trustees of Sheikh Zayed bin Sultan Al Nahyan', 0)","('Ngomeni/Squatter Settlement Scheme/1968', 0)",0.01,Same location: Mombasa,,
+"('Ibrahim Mukthar Abashikh', 0)","('Ngomeni/Squatter Settlement Scheme/1968', 0)",0.01,Same location: Mombasa,,
+"('Uasin Gishu', 1)","('Rogers Kipngetich Kogo', 0)",0.01,Same location: Eldoret,,
+"('Uasin Gishu', 1)","('George Njoroge Kariuki', 0)",0.01,Same location: Eldoret,,
+"('Rogers Kipngetich Kogo', 0)","('George Njoroge Kariuki', 0)",0.01,Same location: Eldoret,,
+"('Loise Njeri Mugure', 0)","('Stephen Kuria Mwangi', 0)",0.01,Same location: Nakuru,,
+"('Loise Njeri Mugure', 0)","('James Wamai Muiga', 0)",0.01,Same location: Nakuru,,
+"('Loise Njeri Mugure', 0)","('Mary Muthoni Mwaura', 0)",0.01,Same location: Nakuru,,
+"('Stephen Kuria Mwangi', 0)","('James Wamai Muiga', 0)",0.01,Same location: Nakuru,,
+"('Stephen Kuria Mwangi', 0)","('Mary Muthoni Mwaura', 0)",0.01,Same location: Nakuru,,
+"('James Wamai Muiga', 0)","('Mary Muthoni Mwaura', 0)",0.01,Same location: Nakuru,,
+"('Nicholas Dere Omolo', 0)","('Maurice Obote Oloo', 0)",0.01,Same location: Kisumu,,
+"('Nicholas Dere Omolo', 0)","('Mary Akumu Ouko', 0)",0.01,Same location: Kisumu,,
+"('Nicholas Dere Omolo', 0)","('Jusfina Ooga Nyagol', 0)",0.01,Same location: Kisumu,,
+"('Nicholas Dere Omolo', 0)","('Pitalis Owuor Ojengu', 0)",0.01,Same location: Kisumu,,
+"('Nicholas Dere Omolo', 0)","('Otiende Okelo', 0)",0.01,Same location: Kisumu,,
+"('Maurice Obote Oloo', 0)","('Mary Akumu Ouko', 0)",0.01,Same location: Kisumu,,
+"('Maurice Obote Oloo', 0)","('Jusfina Ooga Nyagol', 0)",0.01,Same location: Kisumu,,
+"('Maurice Obote Oloo', 0)","('Pitalis Owuor Ojengu', 0)",0.01,Same location: Kisumu,,
+"('Maurice Obote Oloo', 0)","('Otiende Okelo', 0)",0.01,Same location: Kisumu,,
+"('Mary Akumu Ouko', 0)","('Jusfina Ooga Nyagol', 0)",0.01,Same location: Kisumu,,
+"('Mary Akumu Ouko', 0)","('Pitalis Owuor Ojengu', 0)",0.01,Same location: Kisumu,,
+"('Mary Akumu Ouko', 0)","('Otiende Okelo', 0)",0.01,Same location: Kisumu,,
+"('Jusfina Ooga Nyagol', 0)","('Pitalis Owuor Ojengu', 0)",0.01,Same location: Kisumu,,
+"('Jusfina Ooga Nyagol', 0)","('Otiende Okelo', 0)",0.01,Same location: Kisumu,,
+"('Pitalis Owuor Ojengu', 0)","('Otiende Okelo', 0)",0.01,Same location: Kisumu,,
+"('Rahab Gathoni Wachira', 0)","('Mary Cheptarus Nyaga', 0)",0.01,Same location: Nyahururu,,
+"('Rahab Gathoni Wachira', 0)","('Abraham Thiongo Kariuki', 0)",0.01,Same location: Nyahururu,,
+"('Mary Cheptarus Nyaga', 0)","('Abraham Thiongo Kariuki', 0)",0.01,Same location: Nyahururu,,
+"('Isaac Ndirangu Kiarii', 0)","('Michael Njuguna Karuru', 0)",0.01,Same location: Thika,,
+"('Isaac Ndirangu Kiarii', 0)","('George Thuo Muthwanga', 0)",0.01,Same location: Thika,,
+"('Michael Njuguna Karuru', 0)","('George Thuo Muthwanga', 0)",0.01,Same location: Thika,,
+"('R. L. 7', 0)","('R. L. 19', 0)",0.5,"Same location: P.O. Box 16,",,
+"('R. L. 7', 0)","('Wanjeri Nganga', 0)",0.5,"Same location: P.O. Box 16,",,
+"('R. L. 7', 0)","('Eunice Wanjeri Nganga', 0)",0.5,"Same location: P.O. Box 16,",,
+"('R. L. 7', 0)","('the High Court', 0)",0.5,"Same location: P.O. Box 16,",,
+"('R. L. 19', 0)","('Wanjeri Nganga', 0)",0.5,"Same location: P.O. Box 16,",,
+"('R. L. 19', 0)","('Eunice Wanjeri Nganga', 0)",0.5,"Same location: P.O. Box 16,",,
+"('R. L. 19', 0)","('the High Court', 0)",0.5,"Same location: P.O. Box 16,",,
+"('Wanjeri Nganga', 0)","('Eunice Wanjeri Nganga', 0)",0.5,"Same location: P.O. Box 16,",,
+"('Wanjeri Nganga', 0)","('the High Court', 0)",0.5,"Same location: P.O. Box 16,",,
+"('Eunice Wanjeri Nganga', 0)","('the High Court', 0)",0.5,"Same location: P.O. Box 16,",,

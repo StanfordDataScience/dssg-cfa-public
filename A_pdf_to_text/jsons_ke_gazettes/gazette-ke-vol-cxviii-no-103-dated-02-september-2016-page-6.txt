@@ -1,0 +1,46 @@
+3616 THE KENYA GAZETTE 2nd September, 2016 
+management of land in Kenya. To efficiently and effectively execute this mandate there is need for establishment of an integrated land information management system. The National Land Commission Act, 2012 provides for the establishment of an effective Land Information Management System (LIMS), at both national and county levels of government. 
+In addition to streamlining operations and management of land in the country, the system will support the achievement of the following land policy principles: equitable access to land; security of land rights; sustainable and productive management of land resources; transparent and cost effective administration of land; sound conservation and protection of ecologically sensitive areas; elimination of gender discrimination in law, customs and practices related to land and property in land; and encouragement of communities to settle land disputes through recognized local community initiatives consistent with the Constitution of Kenya, 2010 (CoK, art. 60 (1)). It will also support provision of access to (land) information as a fundamental right of every citizen (CoK, 2010 art. 35). 
+Various agencies have been developing spatially driven systems that can be integrated and coordinated to feed into a National Land Information Management System (NLIMS). However, the approaches being adopted by these agencies are not based on common standards and guidelines. There is need therefore, to develop common standards and guidelines. These guidelines will support all the efforts towards integration of systems so that the resultant system can integrate and thereby reduce or eliminate duplication of efforts and help support cooperation and collaboration in the management of land resources, and reduce unnecessary expenditure. The Sessional Paper No. 3 of 2009 on National Land Policy (NLP) in section 163 (c) specifies the establishment of guidelines on land information for governing land matters. 
+This document defines the standards and guidelines to be used as a reference in the development and operationalization of the NLIMS. The system will be developed both at the national and county levels by the NLC, in consultation and collaboration with other government departments and agencies tasked with land administration responsibilities. 
+1.2 Objectives 
+These standards and guidelines will: 
+1. Provide guidance in developing and/or acquiring computerized land information management system. Enhance coordination and management of LIMS across jurisdictional boundaries. 
+2. Facilitate integration and sharing of land information. 
+3. Provide a secure and accessible land information to a wide range of potential users. 
+1.3 Scope 
+The development of these standards and guidelines was based on principles outlined in the National Land Policy. These standards and guidelines address institutions and responsibilities; processes and procedures; availability, organization, quality and documentation of land information; system security, availability and accessibility; implementation and pricing of land information at national and county levels of government. 
+1.4 Revision and Updates 
+This document will be continually revised and updated as provided for in these guidelines. 
+2. Vision, Mission and Guiding Principles 
+2.1 Vision 
+To have an efficient, effective, secure, and reliable Land Information Management System. 
+2.2. Mission 
+To provide reliable, timely and secure land information through innovative technological approaches to all interested parties for enhanced provision of land management services for sustainable use of land at both National and County levels of govemment. 
+2.3 General Principles 
+The general principles for NLIMS are: 
+The Land Information Management System should be established at both National and County levels of government 2nd September, 2016 
+to help streamline operations and management of land in the country. 
+2. The govemments at the National and County levels are distinct and inter-dependent and shall conduct their mutual relations with respect to the NLIMS on the basis of coordination, consultation and collaboration. 
+3. National and County institutions shall ensure reasonable access to NLIMS services in all parts of the Republic. 
+2.4 Substantive Principles 
+As defined in the National Land Policy, the guidelines require to be in line with the following substantive principles: 
+1. NLIMS be comprehensive, computer based, efficient, user- friendly, accessible, affordable, transparent and gender sensitive. 
+2 . NLIMS facilitates accurate classification and mapping of all categories of land including land claimed by minority groups, pastoral communities, disputed land, and land identified to have been irregularly allocated. 
+3. National guidelines on land information, to govem matters such as land information standards, security, dissemination and pricing are established. 
+4. Land information is made available in a form and language that can be understood by most citizens, including accessible and clear hard copy information products and simple maps. 
+5. The growth of a viable land information market be promoted. 6. Sharing of information across Government departments should be facilitated. 
+7. Public-private partnerships in the setting up of and administration of the NLIMS is encouraged. 
+8. Human resource capacity to develop, operate and maintain NLIMS is created. 
+9. A land information law be enacted to facilitate access to and management of land information. 
+10. Mechanisms for the incorporation of traditional land information in the NLIMS be established. 
+2.5 Operational Principles 
+As defined in the National Land Policy, the guidelines require to be in line with the following operational principles: 
+1. Existing land records be re-organized, updated, authenticated and safeguarded. 
+2. A National Spatial Data Infrastructure (NSDI) is established to ensure integration and interoperability of and access to spatial data sets held by different national and sectoral agencies. 
+3. Necessary infrastructure, such as electricity, computing infrastructure at all levels of land administration is provided. 3. Institutions and responsibilities 
+3.1 Overview 
+1 . The NLIMS will operate through the participation of National and County agencies, the private sector, and other stakeholders; each is an indispensable source of land information and services. 
+2. In the NLIMS, each level of government and concemed departments should: 
+3. Provide land information within its mandate to the NLIMS. Have NLIMS services available and accessible in a useful A form and at a reasonable cost and to the extent of its resources. 
+5. Have appropriate personnel and equipment for the NLIMS. 6. The linkages between the different institutions responsible for NLIMS are according to the following framework. 

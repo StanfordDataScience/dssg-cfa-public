@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[2]:
 
 
 # -----------------------------------------------------------
@@ -12,7 +12,7 @@
 # -----------------------------------------------------------
 
 
-# In[8]:
+# In[3]:
 
 
 # for others to use this script, it will help to change this variable to
@@ -20,7 +20,7 @@
 ROUTETOROOTDIR = '/home/dssg-cfa/notebooks/dssg-cfa-public/'
 IMPORTSCRIPTSDIR = ROUTETOROOTDIR + "util/py_files"
 EXPORTDATADIR1 = ROUTETOROOTDIR + 'B_text_preproessing/csv_outputs/'
-UTILDIR = ROUTETOROOTDIR + 'util'
+UTILDIR = ROUTETOROOTDIR + 'util/'
 JSONSDIR = ROUTETOROOTDIR + 'A_pdf_to_text/jsons_ke_gazettes/'
 ADIR = ROUTETOROOTDIR + 'A_pdf_to_text/'
 BDIR = ROUTETOROOTDIR + 'B_text_preprocessing/'
@@ -30,7 +30,7 @@ import os
 import csv
 
 
-# In[55]:
+# In[11]:
 
 
 def convertToPy(filename, filepath):
@@ -102,6 +102,7 @@ def writeTxt(filename, text, filepath):
     filepath: te directory to write this csv to."""
     
     get_ipython().run_line_magic('cd', '{filepath}')
+    print('FILEPATH: ' + filepath)
     if len(filename) < 5 or filename[-4:] != ".txt":
         filename = filename + ".txt"
     fileObj = open(filename, "w")
@@ -109,11 +110,11 @@ def writeTxt(filename, text, filepath):
     fileObj.close()
 
 
-# In[58]:
+# In[14]:
 
 
 #convertAll()
-#convertToPy("setup")
+#convertToPy("setup", UTILDIR)
 
 
 # In[ ]:
