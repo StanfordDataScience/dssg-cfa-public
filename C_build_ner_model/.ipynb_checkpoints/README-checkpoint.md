@@ -17,6 +17,9 @@ Code is split through several files, each of which has a more detailed descripti
 Start by training the modified model by walking through `A_train_modified_spacy_model_ipynb` notebook, then test the model by walking through the `B_test_modified_spacy_model.ipynb` notebook and export the entities to be converted to nodes and edges using the `C_exportNERAPI` notebook.
 
 
+**Note** The notebook titled `A_train_modified_spacy_model_ipynb` notebook walks one through the steps of training a model. The output of these training steps, trained on 6286 Land Registration Act notices from 80 different gazettes published 2012 - 2019, is stored in the `model_outputs` file. These training notices are not uploaded to this GitHub repo due to their large size. However, a few samples are uploaded to guide the implementation of the training steps. We recommend the user to apply these steps on their training sets. 
+
+
 ### Skills Required
 
 * The only skill required is operating `spaCy`. One can learn to operate spacy by following the `Y_general_spaCy_tutorial.ipynb` and reading through the spaCy website: https://spacy.io/api, which is well documented.
