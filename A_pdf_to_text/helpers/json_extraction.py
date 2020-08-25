@@ -18,7 +18,7 @@ import PyPDF2
 import io
 import re
 
-import dest_fn_from_url as df
+from helpers import dest_fn_from_url as df
 
 # 17 inches (max for Read API) x 72 points per inch
 MAX_DIM = 17*72
@@ -123,7 +123,23 @@ def call_read_api(final_dest_url = "", flag = "url", image_path = ""):
 # In[ ]:
 
 
-def call_read_api_resize(final_dest_url, temp_pdf_fp, firstPageOnly = False): 
+def add_page(reader, i, writer): 
+    '''
+    Add page at index i (starting at 0) from PDFreader to PDFwriter object.
+    '''
+    page = reader.getPage(i)
+    width = float(page.mediaBox.lowerRight[0]) 
+    height = float(page.mediaBox.upperLeft[1]) 
+    # resize if width or height of page is too large
+    if width > MAX_DIM: 
+        width = MAX_DIM
+        page.scaleTo(MAX_DIM, height)
+    if height > MAX_DIM: 
+        page.scaleTo(width, MAX_DIM)
+    writer.addPage(page)
+    
+
+def call_read_api_resize(final_dest_url, temp_pdf_fp, pageIndex = None): 
     '''
     This is a much slower way to get OCR'd version of a PDF using Microsoft Read API. 
     It's intended for use on PDFs that failed processing by URL alone 
@@ -150,19 +166,11 @@ def call_read_api_resize(final_dest_url, temp_pdf_fp, firstPageOnly = False):
     writer = PyPDF2.PdfFileWriter()
     reader = PyPDF2.PdfFileReader(io.BytesIO(pdf_data))
     
-    for i in range(reader.numPages): # loop through all pages
-        page = reader.getPage(i)
-        width = float(page.mediaBox.lowerRight[0]) 
-        height = float(page.mediaBox.upperLeft[1]) 
-        # resize if width or height of page is too large
-        if width > MAX_DIM: 
-            width = MAX_DIM
-            page.scaleTo(MAX_DIM, height)
-        if height > MAX_DIM: 
-            page.scaleTo(width, MAX_DIM)
-        writer.addPage(page)
-        if firstPageOnly:
-            break
+    if pageIndex: 
+        add_page(reader, i, writer)
+    else: 
+        for i in range(reader.numPages): # loop through all pages
+            add_page(reader, i, writer)
     
     # create temp file 
     with open(temp_pdf_fp, "wb") as f: 
@@ -245,5 +253,150 @@ def bulk_ocr(fin_url_sublist, duplicates, failures, flag,
 # In[ ]:
 
 
+def bulk_ocr_first_pg(filepath_url_metadata, src_database, failures,
+                         temp_pdf_fp = "temp.pdf",
+                         filepath_out = "/home/dssg-cfa/ke-gazettes-first-pgs/"):
+    '''
+    Loops through all final destination URLs in sublist. 
+    Calls Read API to get and save json files for the first page of all files, 
+    without filtering for duplicates. (Adds '*' if filename already exists.)
+    Names files using metadata: 
+    - Connected Africa: fileNameFromDB + "_" + src_database + "_" + checksums
+    - Gazeti: fileNameDB + "_" + src_database + "_" + file_num
+    '''
+    if src_database not in ("connected-africa", "gazeti"): 
+        print("src_database must be \'connected-africa\' or \'gazeti\'")
+        return 
+    
+    calls = 0
+    count = 0
+    start_time = time.time()
+    
+    with open(filepath_url_metadata) as f:
+        gazettes_src = json.load(f)
+    
+    for g in gazettes_src: 
+        print("starting on call " + str(calls))
+        calls += 1
+        
+        fileNameDB = g['fileNameDirectFromDB']
+        final_dest_url = g['dest_url']
+        if src_database == "connected-africa":
+            checksums = g['checksums'][0]
+            dest_fn = filepath_out + fileNameDB + "_" + src_database + "_" + checksums
+        elif src_database == "gazeti":
+            file_num = g['file_num']
+            dest_fn = filepath_out + fileNameDB + "_" + src_database + "_" + file_num  
+        while os.path.exists(dest_fn):
+            dest_fn += "*"
+        
+        json_output, success = call_read_api_resize(final_dest_url, temp_pdf_fp, pageIndex = 0)
+        
+        if success: 
+            save_content(json_output, dest_fn)
+            print("success " + str(count))
+            count += 1
 
+        else: 
+            failures.append(final_dest_url)
+            print('failed' + str(json_output) + ": " + str(failures[-1]))
+
+    time_diff = time.time() - start_time
+    print(str(time_diff/60) + " minutes for " + str(count) + " gazettes")
+    print("Failed on " + str(len(failures)) + " gazettes.")
+    # print("Duplicates: " + str(len(duplicates)))
+
+
+# In[ ]:
+
+
+def call_form_rec_layout_api(url, pageIdx = None, pageIdxList = None, temp_pdf_fp = "temp.pdf"): 
+    '''
+    Cals form recognizer layout API on a given PDF document, identified by its URL and
+    optional page indices. 
+    pageIdx should be an integer (single page); pageIdxList should be a list of all pages
+    to get form recognizer results for. 
+    Returns success of operation and resulting JSON output. 
+    '''
+    
+    # --- SETUP ---
+    
+    pdf_data = requests.get(url).content
+    if not "%PDF" in str(pdf_data): 
+        return "ERROR: URL does not point to PDF.", False
+
+    writer = PyPDF2.PdfFileWriter()
+    reader = PyPDF2.PdfFileReader(io.BytesIO(pdf_data))
+    if pageIdx: 
+        add_page(reader, pageIdx, writer)
+    elif pageIdxList: 
+        for i in pageIdxList: 
+            add_page(reader, i, writer)
+    else: 
+        for i in range(reader.numPages): # loop through all pages
+            add_page(reader, i, writer)
+    
+    with open(temp_pdf_fp, "wb") as f: 
+        writer.write(f)
+    
+    # --- CALL FORM RECOGNIZER API ---
+    
+    # Endpoint URL
+    endpoint = "<YOUR ENDPOINT HERE>"
+    # subscription key 
+    apim_key = "<YOUR APIM KEY HERE>"
+    # constant
+    post_url = endpoint + "/formrecognizer/v2.0/Layout/analyze"
+    # replace with your PDF; note that this is a local file
+    
+    # SEND DATA TO SERVER
+    
+    source = temp_pdf_fp
+    
+    headers = {
+        'Content-Type': 'application/pdf',
+        'Ocp-Apim-Subscription-Key': apim_key,
+    }
+    with open(source, "rb") as f:
+        data_bytes = f.read()
+
+    try:
+        resp = post(url = post_url, data = data_bytes, headers = headers)
+        if resp.status_code != 202:
+            print("POST analyze failed:\n%s" % resp.text)
+            quit()
+        print("POST analyze succeeded:\n%s" % resp.headers)
+        get_url = resp.headers["operation-location"]
+    except Exception as e:
+        print("POST analyze failed:\n%s" % str(e))
+        quit()
+    
+    # GET RESULTS FROM SERVER
+    
+    n_tries = 10
+    n_try = 0
+    wait_sec = 5
+    while n_try < n_tries:
+        try:
+            resp = get(url = get_url, headers = {"Ocp-Apim-Subscription-Key": apim_key})
+            resp_json = json.loads(resp.text)
+            if resp.status_code != 200:
+                print("GET Layout results failed:\n%s" % resp_json)
+                return False, resp_json
+            status = resp_json["status"]
+            if status == "succeeded":
+                print("Layout Analysis succeeded:\n%s" % resp_json)
+
+            if status == "failed":
+                print("Layout Analysis failed:\n%s" % resp_json)
+                return False, resp_json
+            # Analysis still running. Wait and retry.
+            time.sleep(wait_sec)
+            n_try += 1     
+        except Exception as e:
+            msg = "GET analyze results failed:\n%s" % str(e)
+            print(msg)
+            quit()
+            
+    return True, resp_json
 

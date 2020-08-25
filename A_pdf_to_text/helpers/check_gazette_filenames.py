@@ -86,7 +86,7 @@ def is_dated_correctly(gazette_fn, gazette_data):
     return True, ""
 
 
-def is_numbered_correctly(gazette_fn, gazette_data):
+def is_numbered_correctly(gazette_fn, gazette_data, just_results = False):
     '''
     Returns false if vol or issue number from gazette_data are not correctly
     reflected in gazette_fn (filename)
@@ -128,6 +128,9 @@ def is_numbered_correctly(gazette_fn, gazette_data):
         return False, ""
     
     no = no.group(0).lower()
+    
+    if just_results: 
+        return vol, no
     
     pre = 'gazette-ke-vol-' + vol + '-no-' + no + "-"
     
