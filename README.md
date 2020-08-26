@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Github repository was completed by a team of fellows as part of Stanford's Data Science for Social Good program in the Summer of 2020, working on a project originated by Code for Africa and the World Resources Institue. The end goal of our project is to create high quality and easily accessible relations datasets concerning land-related information from the Kenya Gazettes, aiming to help journalists uncover land corruption and protect natural resources. You can read our final report [here](insert_link) and watch our final presentation [here](insert_link).
+This Github repository was completed by a team of fellows as part of Stanford's Data Science for Social Good program in the Summer of 2020, working on a project originated by Code for Africa and the World Resources Institue. The end goal of our project is to create high quality and easily accessible relations datasets concerning land-related information from the Kenya Gazettes, aiming to help journalists uncover land corruption and protect natural resources. You can read our final report in this directory and view the slides from our final presentation [here](https://docs.google.com/presentation/d/1Woemfb5ZEkEiuj0ur1kxc2wPZMX1eq8XO3wtRAVQ-Jk/edit).
 
 Our outputs are: 
 1. A dataset of higher quality PDF-to-text translations of Kenya Gazettes.
@@ -37,6 +37,12 @@ A high-level overview of the processes completed in each directory is as follows
 * **D_build_network:** Useing our spaCy model, extract entities for a number of gazettes. Combine these entities into objects, and these objects into a network. Visualize the network and perform exploratory data analysis.
 
 * **util:** Helpful scripts used throught the project and supplementary dataset.
+
+### Data
+
+The outputs of the Microsoft OCR for all Gazettes 2000-2019 are stored (compressed) in `ke-gazettes.tar.gz`. Note that what is stored here are JSON files with geometric information, which may be turned into raw text using the scripts in `A_pdf_to_text`. A map between the filenames in this database, which does not contain duplicates and in which some attempt was made to correct mislabelled Gazettes, and the source databases, [Connected Africa](https://data.connectedafrica.net/datasets/18) and [Gazeti.Africa](https://gazeti.africa), is stored in `filename_map_to_database.txt`.
+
+Additionally, the outputs of the Microsoft OCR for all *first pages* of every Gazette *file* in the databases -- including duplicates, with the original names, and with additional metadata -- are stored in `ke-gazettes-first-pgs.tar.gz`. 
 
 ### Notebooks (.ipynb) vs Scripts (.py)
 
