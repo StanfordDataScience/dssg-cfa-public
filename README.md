@@ -24,7 +24,6 @@ This project can be thought of as one continuous pipeline, which can be easily s
 
 In directories A, B, and D, the file "walkthrough_notebook.ipynb" takes the read step by step through the functionality present in the directory, demonstrated on a single Gazette. We highly reccomend starting here when familiarizing yourself with these directories. Directory A contains a folder of "additional walkthroughs" for the source database APIs and the OCR'd outputs. In directory C, the notebooks are meant to be run and observed in order.
 
-Please see the *Data* directory to access and interpret the outputs of our OCR service, Microsoft Cognitive Services' Read API, applied to all Gazettes published between 2000 and 2019 that were available on the Connected Africa and Gazeti websites as of August 2020. 
 
 ### Directories
 
@@ -39,6 +38,8 @@ A high-level overview of the processes completed in each directory is as follows
 * **D_build_network:** Useing our spaCy model, extract entities for a number of gazettes. Combine these entities into objects, and these objects into a network. Visualize the network and perform exploratory data analysis.
 
 * **util:** Helpful scripts used throught the project and supplementary dataset.
+
+* **Data:** The outputs of our OCR service, Microsoft's Read API, applied to all Gazettes published 2000-2019 available on the Connected Africa and Gazeti websites. A text file enabling a mapping from our database to original files in the source databases, which contain some duplicates and misnamings. 
 
 ### Data
 
