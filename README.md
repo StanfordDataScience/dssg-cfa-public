@@ -59,6 +59,3 @@ We would like to thank our partners, the [Code for Africa project] (https://medi
 We thank the [Stanford Data Science Institute](https://datascience.stanford.edu/) for their work running the Stanford Data Science for Social Good program, the [National Science Foundation](https://www.nsf.gov/) for funding without which our programa and others like it wouldn't be possible, and [Microsoft](microsoft.com/) for generously providing compute credits for their [Azure](https://azure.microsoft.com/) platform and for their [Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/) Optical Character Recognition and Form Recognizer APIs.
 
 Finally, an enormous amount of credit and thanks is due to our technical mentors and faculty advisors for their constant support and insightful advice throughout this project. The faculty mentors supporting the DSSG program were Michael Baiocchi, Balasubramanian Narasimhan, and Chiara Sabatti. The post-doctoral and graduate mentors supporting the DSSG program were Mahnaz Roshanaei, Mike Sklar, Ben Stenhaug, and Qijia Jiang.
-
-
-
