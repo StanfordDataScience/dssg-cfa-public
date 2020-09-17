@@ -24,6 +24,8 @@ This project can be thought of as one continuous pipeline, which can be easily s
 
 In directories A, B, and D, the file "walkthrough_notebook.ipynb" takes the read step by step through the functionality present in the directory, demonstrated on a single Gazette. We highly reccomend starting here when familiarizing yourself with these directories. Directory A contains a folder of "additional walkthroughs" for the source database APIs and the OCR'd outputs. In directory C, the notebooks are meant to be run and observed in order.
 
+Please see the *Data* directory to access and interpret the outputs of our OCR service, Microsoft Cognitive Services' Read API, applied to all Gazettes published between 2000 and 2019 that were available on the Connected Africa and Gazeti websites as of August 2020. 
+
 ### Directories
 
 A high-level overview of the processes completed in each directory is as follows:
